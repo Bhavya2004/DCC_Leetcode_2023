@@ -1,0 +1,1278 @@
+[Day1]
+Given a pattern and a string s, find if s follows the same pattern.
+
+Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in s.
+
+answer.[java]
+class Solution {
+    public boolean wordPattern(String pattern, String str) {
+           String[] arr = str.split(" ");  
+ 
+    //prevent out of boundary problem
+    if(arr.length != pattern.length())
+        return false;
+ 
+    HashMap<Character, String> map = new HashMap<Character, String>();
+    for(int i=0; i<pattern.length(); i++){
+        char c = pattern.charAt(i);
+        if(map.containsKey(c)){
+            String value = map.get(c);
+            if(!value.equals(arr[i])){
+                return false;
+            }
+        }else if (map.containsValue(arr[i])){
+            return false;
+        }
+        map.put(c, arr[i]);
+    }
+ 
+    return true;
+    }
+}
+
+[Day2]
+We define the usage of capitals in a word to be right when one of the following cases holds:
+
+All letters in this word are capitals, like "USA".
+All letters in this word are not capitals, like "leetcode".
+Only the first letter in this word is capital, like "Google".
+Given a string word, return true if the usage of capitals in it is right.
+
+answer.[python]
+return len(word) <= 1 or word.isupper() or word[1:].islower()
+
+[Day3]
+You are given an array of n strings strs, all of the same length.
+
+The strings can be arranged such that there is one on each line, making a grid. For example, strs = ["abc", "bce", "cae"] can be arranged as:
+
+abc
+bce
+cae
+You want to delete the columns that are not sorted lexicographically. In the above example (0-indexed), columns 0 ('a', 'b', 'c') and 2 ('c', 'e', 'e') are sorted while column 1 ('b', 'c', 'a') is not, so you would delete column 1.
+
+answer.[java]
+class Solution {
+    public int minDeletionSize(String[] A) {
+        if(A == null || A.length == 0)
+            return 0;
+
+        int res = 0;
+        int n = A[0].length();
+
+        for(int i = 0; i < n; i++) {
+            int j = 0;
+            for(; j < A.length - 1; j++) {
+                if(A[j].charAt(i) > A[j + 1].charAt(i)) {
+                    break;
+                }
+            }
+
+            if(j != A.length - 1)
+                res++;
+        }
+
+        return res;
+    }
+
+}
+
+[Day4]
+You are given a 0-indexed integer array tasks, where tasks[i] represents the difficulty level of a task. In each round, you can complete either 2 or 3 tasks of the same difficulty level.
+
+Return the minimum rounds required to complete all the tasks, or -1 if it is not possible to complete all the tasks.
+
+answer.[java](using hashmaps)
+class Solution {
+    public int minimumRounds(int[] tasks) {
+        Map<Integer,Integer> difficultyFreq = new HashMap<>();
+
+        for(int task:tasks){
+            difficultyFreq.put(task,difficultyFreq.getOrDefault(task,0)+1);
+        }
+
+        int ans=0;
+        for(Map.Entry<Integer,Integer> entry:difficultyFreq.entrySet()){
+            int freq=entry.getValue();
+            if(freq==1){
+                return -1;
+            }
+            //2X+3Y=freq
+            if(freq %3 != 0){
+                ans+=freq/3+1;
+            }
+            else{
+                ans+=freq/3;
+            }
+        }
+        return ans;
+    }
+}
+
+[Day5]
+There are some spherical balloons taped onto a flat wall that represents the XY-plane. The balloons are represented as a 2D integer array points where points[i] = [xstart, xend] denotes a balloon whose horizontal diameter stretches between xstart and xend. You do not know the exact y-coordinates of the balloons.
+
+Arrows can be shot up directly vertically (in the positive y-direction) from different points along the x-axis. A balloon with xstart and xend is burst by an arrow shot at x if xstart <= x <= xend. There is no limit to the number of arrows that can be shot. A shot arrow keeps traveling up infinitely, bursting any balloons in its path.
+
+Given the array points, return the minimum number of arrows that must be shot to burst all balloons.
+
+answer.[java]
+class Solution {
+    public int findMinArrowShots(int[][] points) {
+        
+        Arrays.sort(points, (a,b) -> Integer.compare(a[1], b[1]));
+        int arrow = 1;
+        int end = points[0][1];
+        for(int i = 1;i < points.length;i++){
+            if(points[i][0] > end){
+                arrow++;
+                end = points[i][1];
+            }
+        }
+        return arrow;
+    }
+}
+
+[Day6]
+It is a sweltering summer day, and a boy wants to buy some ice cream bars.
+
+At the store, there are n ice cream bars. You are given an array costs of length n, where costs[i] is the price of the ith ice cream bar in coins. The boy initially has coins coins to spend, and he wants to buy as many ice cream bars as possible. 
+
+Return the maximum number of ice cream bars the boy can buy with coins coins.
+
+Note: The boy can buy the ice cream bars in any order.
+
+answer.[java]
+class Solution {
+    public int maxIceCream(int[] costs, int coins) {
+        Arrays.sort(costs);
+        int l=costs.length;
+
+        for (int i=0;i<l;i++){
+            coins -= costs[i];
+            if(coins <0){
+                return i;
+            }
+        }
+        return l;
+    }
+}
+
+[Day7]
+There are n gas stations along a circular route, where the amount of gas at the ith station is gas[i].
+
+You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from the ith station to its next (i + 1)th station. You begin the journey with an empty tank at one of the gas stations.
+
+Given two integer arrays gas and cost, return the starting gas station's index if you can travel around the circuit once in the clockwise direction, otherwise return -1. If there exists a solution, it is guaranteed to be unique
+
+answer.[java]
+class Solution {
+    public int canCompleteCircuit(int[] gas, int[] cost) {
+        // Initialize totalGas and totalCost to 0
+        int totalGas = 0, totalCost = 0;
+        // Iterate through all the gas stations
+        for(int i = 0 ; i<gas.length; i++){
+            // Add the gas and cost at each station to the total
+            totalGas += gas[i];
+            totalCost += cost[i];
+        }
+        // If totalCost is greater than totalGas, it is not possible to complete the circuit
+        if(totalGas < totalCost) return -1;
+        
+        // Initialize remainsGas and start to 0
+        int remainsGas = 0, start = 0;
+        // Iterate through all the gas stations
+        for(int i = 0 ; i < gas.length; i++){
+            // Add the difference between gas and cost at each station to remainsGas
+            remainsGas = remainsGas +(gas[i] - cost[i]);
+            // If remainsGas becomes negative, set start to the next station and reset remainsGas to 0
+            if(remainsGas < 0 ){
+                start = i+1;
+                remainsGas = 0;
+            }
+        }
+        // Return the starting station
+        return start;
+    }
+}
+
+[Day8]
+Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane, return the maximum number of points that lie on the same straight line.
+
+answer.[java]
+class Solution {
+    public int maxPoints(int[][] points) {
+        int n = points.length;
+        if (n == 1) {
+            return 1;
+        }
+        int result = 2;
+        for (int i = 0; i < n; i++) {
+            Map<Double, Integer> cnt = new HashMap<>();
+            for (int j = 0; j < n; j++) {
+                if (j != i) {
+                    cnt.merge(Math.atan2(points[j][1] - points[i][1],
+                    	points[j][0] - points[i][0]), 1, Integer::sum);
+                }
+            }
+            result = Math.max(result, Collections.max(cnt.values()) + 1);
+        }
+        return result;
+    }
+}
+
+[Day-9]
+Given the root of a binary tree, return the preorder traversal of its nodes' values.
+
+answer.[java]
+//Preorder-: Root->Left->Right
+class Solution {
+    public List<Integer> preorderTraversal(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<>();
+        List<Integer> res = new ArrayList<>();
+        
+        while(root!=null || !stack.isEmpty()){
+            
+            while(root!=null){
+                res.add(root.val);
+                stack.add(root);
+                root = root.left;    
+            }
+            
+            if(stack.isEmpty()){
+                return res;
+            }
+            
+            root = stack.pop();
+            root = root.right;
+        }
+        return res;
+        
+    }
+}
+
+[Day-10]
+Given the roots of two binary trees p and q, write a function to check if they are the same or not.
+
+Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
+
+answer.[java]
+class Solution {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if(p == null && q == null) return true;
+        if(p == null || q == null) return false;
+        if(p.val != q.val) return false;
+        return  isSameTree(p.left,q.left) &&
+                isSameTree(p.right,q.right);
+    }
+}
+
+[Day-11]
+Given an undirected tree consisting of n vertices numbered from 0 to n-1, which has some apples in their vertices. You spend 1 second to walk over one edge of the tree. Return the minimum time in seconds you have to spend to collect all apples in the tree, starting at vertex 0 and coming back to this vertex.
+The edges of the undirected tree are given in the array edges, where edges[i] = [ai, bi] means that exists an edge connecting the vertices ai and bi. Additionally, there is a boolean array hasApple, where hasApple[i] = true means that vertex i has an apple; otherwise, it does not have any apple.
+
+answer.[python]
+class Solution:
+    def minTime(self, n: int, edges: list[list[int]], hasApple: list[bool]) -> int:
+                          
+        seen, g = set(), defaultdict(list)
+
+        for a,b in edges: 
+            g[a].append((b))  ;  g[b].append((a))
+           
+        def dfs(node: int)->int:
+            seen.add(node)    
+  
+            ans = sum(dfs(n) for n in g[node] if n not in seen) 
+ 
+            if not ans and not hasApple[node]: return 0
+
+            return ans+2           
+
+        return max (0,dfs(0)-2)
+
+[Day-12]
+You are given a tree (i.e. a connected, undirected graph that has no cycles) consisting of n nodes numbered from 0 to n - 1 and exactly n - 1 edges. The root of the tree is the node 0, and each node of the tree has a label which is a lower-case character given in the string labels (i.e. The node with the number i has the label labels[i]).
+
+The edges array is given on the form edges[i] = [ai, bi], which means there is an edge between nodes ai and bi in the tree.
+
+Return an array of size n where ans[i] is the number of nodes in the subtree of the ith node which have the same label as node i.
+
+A subtree of a tree T is the tree consisting of a node in T and all of its descendant nodes.
+
+answer[python]:
+class Solution:
+    def countSubTrees(self, n: int, edges: List[List[int]], labels: str) -> List[int]:
+        # Construct the tree using the edges.
+        # Since the tree is undricted, we need to add both directions in the tree.
+        tree = defaultdict(list)
+        for s,e in edges:
+            tree[s].append(e)
+            tree[e].append(s)
+        
+        # The result of length n will be returned at the end.
+        # It is being modified in the dfs.
+        res = [0] * n
+        
+        # node is the current node we are examing.
+        # par is the node's direct parent node.
+        def dfs(node, par):
+            nonlocal res
+            # Using count to store the count of each letters in the sub-tree rooted at the current node.
+            # The size of this hashmap (count) will be at most 26, 
+            # Since there are at most 26 lowercase English letters 
+            count = Counter()
+            for nei in tree[node]:
+                # Make sure we are not going backward to its parent node.
+                if nei != par:
+                    # Update count with the letters' frequency in the children nodes
+                    # This is the same as going through a to z and increase the frequency of each letter.
+                    count += dfs(nei, node)
+            
+            # Adding 1 to count with the current label
+            count[labels[node]] += 1
+            # Update the result.
+            res[node] = count[labels[node]]
+            
+            return count
+        
+        # Starting from node 0, and assign fake parent -1 for it.
+        dfs(0,-1)
+        return res
+
+Day-13[Hard]
+You are given a tree (i.e. a connected, undirected graph that has no cycles) rooted at node 0 consisting of n nodes numbered from 0 to n - 1. The tree is represented by a 0-indexed array parent of size n, where parent[i] is the parent of node i. Since node 0 is the root, parent[0] == -1.
+
+You are also given a string s of length n, where s[i] is the character assigned to node i.
+
+Return the length of the longest path in the tree such that no pair of adjacent nodes on the path have the same character assigned to them.
+
+answer.[Java]
+//Used DFS
+class Solution {
+    int longestPathValue = 1; // variable to store the length of the longest path
+
+    public int longestPath(int[] parent, String s) {
+        // create an adjacency list representation of the tree
+        Map<Integer, List<Integer>> adj = new HashMap<>();
+        for(int i = 1; i < parent.length; i++){
+            int j = parent[i];
+            adj.putIfAbsent(j, new LinkedList<>());
+            adj.get(j).add(i);
+        }
+        // call dfs on the root of the tree
+        dfs(0, adj, s);
+        return longestPathValue;
+    }
+
+    public int dfs(int node, Map<Integer, List<Integer>> adj, String s){
+        // if the node is a leaf node, return 1
+        if(!adj.containsKey(node)) return 1;
+        int max = 0, secondMax = 0;
+        // for each neighbor of the node
+        for(int nbrNode : adj.get(node)){
+            int longestPathFromNbrNode = dfs(nbrNode , adj, s);
+            // if the characters at the current node and its neighbor are the same, ignore the neighbor
+            if(s.charAt(node) == s.charAt(nbrNode)) continue;
+            // update max and secondMax with the longest path from the neighbor node
+            if(longestPathFromNbrNode > max){
+                secondMax = max;
+                max = longestPathFromNbrNode;
+            }else if(longestPathFromNbrNode > secondMax){
+                secondMax = longestPathFromNbrNode;
+            }
+        }
+        // update longestPathValue with the longest path that includes the current node
+        longestPathValue = Math.max(longestPathValue, max+secondMax+1);
+        return max+1;
+    }
+}
+
+[Day-14]
+You are given two strings of the same length s1 and s2 and a string baseStr.
+
+We say s1[i] and s2[i] are equivalent characters.
+
+For example, if s1 = "abc" and s2 = "cde", then we have 'a' == 'c', 'b' == 'd', and 'c' == 'e'.
+Equivalent characters follow the usual rules of any equivalence relation:
+
+Reflexivity: 'a' == 'a'.
+Symmetry: 'a' == 'b' implies 'b' == 'a'.
+Transitivity: 'a' == 'b' and 'b' == 'c' implies 'a' == 'c'.
+For example, given the equivalency information from s1 = "abc" and s2 = "cde", "acd" and "aab" are equivalent strings of baseStr = "eed", and "aab" is the lexicographically smallest equivalent string of baseStr.
+
+Return the lexicographically smallest equivalent string of baseStr by using the equivalency information from s1 and s2.
+
+answer.[java]
+class Solution {
+    private int[] p;
+
+    public String smallestEquivalentString(String s1, String s2, String baseStr) {
+        p = new int[26];
+        for (int i = 0; i < 26; ++i) {
+            p[i] = i;
+        }
+        for (int i = 0; i < s1.length(); ++i) {
+            int a = s1.charAt(i) - 'a', b = s2.charAt(i) - 'a';
+            int pa = find(a), pb = find(b);
+            if (pa < pb) {
+                p[pb] = pa;
+            } else {
+                p[pa] = pb;
+            }
+        }
+        StringBuilder sb = new StringBuilder();
+        for (char a : baseStr.toCharArray()) {
+            char b = (char) (find(a - 'a') + 'a');
+            sb.append(b);
+        }
+        return sb.toString();
+    }
+
+    private int find(int x) {
+        if (p[x] != x) {
+            p[x] = find(p[x]);
+        }
+        return p[x];
+    }
+}
+
+Day-15[Hard]
+There is a tree (i.e. a connected, undirected graph with no cycles) consisting of n nodes numbered from 0 to n - 1 and exactly n - 1 edges.
+
+You are given a 0-indexed integer array vals of length n where vals[i] denotes the value of the ith node. You are also given a 2D integer array edges where edges[i] = [ai, bi] denotes that there exists an undirected edge connecting nodes ai and bi.
+
+A good path is a simple path that satisfies the following conditions:
+
+The starting node and the ending node have the same value.
+All nodes between the starting node and the ending node have values less than or equal to the starting node (i.e. the starting node's value should be the maximum value along the path).
+Return the number of distinct good paths.
+
+Note that a path and its reverse are counted as the same path. For example, 0 -> 1 is considered to be the same as 1 -> 0. A single node is also considered as a valid path.
+
+answer.[java]
+class Solution {
+    // dsu
+    int[] root;
+    int[] cnt;
+    int get(int x) {
+        return x == root[x] ? x : (root[x] = get(root[x]));
+    }
+
+    public int numberOfGoodPaths(int[] vals, int[][] edges) {
+        // each node is a good path
+        int n = vals.length, ans = n;
+        cnt = new int[n];
+        root = new int[n];
+        // each element is in its own group initially
+        for (int i = 0; i < n; i++) {
+            root[i] = i;
+            cnt[i] = 1;
+        }
+        // sort by vals
+        List<int[]> edgesList = new ArrayList<>();
+        for(int i = 0; i < edges.length; i++) edgesList.add(edges[i]);
+        Collections.sort(edgesList, new Comparator<int[]>() {
+            public int compare(int[] x, int[] y) {
+                int a = Math.max(vals[x[0]], vals[x[1]]);
+                int b = Math.max(vals[y[0]], vals[y[1]]);
+                if(a < b) return -1;
+                else if(a > b) return 1;
+                else return 0;
+            }
+        });
+
+        // iterate each edge
+        for (int[] e : edgesList) {
+            int x = e[0], y = e[1];
+            // get the root of x
+            x = get(x);
+            // get the root of y
+            y = get(y);
+            // if their vals are same, 
+            if (vals[x] == vals[y]) {
+                // then there would be cnt[x] * cnt[y] good paths
+                ans += cnt[x] * cnt[y];
+                // unite them
+                root[x] = y;
+                // add the count of x to that of y
+                cnt[y] += cnt[x];
+            } else if (vals[x] > vals[y]) {
+                // unite them
+                root[y] = x;
+            } else {
+                // unite them
+                root[x] = y;
+            }
+        }
+        return ans;
+    }
+}
+
+[Day-16]
+You are given an array of non-overlapping intervals intervals where intervals[i] = [starti, endi] represent the start and the end of the ith interval and intervals is sorted in ascending order by starti. You are also given an interval newInterval = [start, end] that represents the start and end of another interval.
+
+Insert newInterval into intervals such that intervals is still sorted in ascending order by starti and intervals still does not have any overlapping intervals (merge overlapping intervals if necessary).
+
+Return intervals after the insertion.
+
+answer.[java]
+class Solution {
+    // Returns true if the intervals a and b have a common element.
+    boolean doesIntervalsOverlap(int[] a, int[] b) {
+        return Math.min(a[1], b[1]) - Math.max(a[0], b[0]) >= 0;
+    }
+
+    // Return the interval having all the elements of intervals a and b.
+    int[] mergeIntervals(int[] a, int[] b) {
+        int[] newInterval = {Math.min(a[0], b[0]), Math.max(a[1], b[1])};
+        return newInterval;
+    }
+
+    // Insert the interval newInterval, into the list interval keeping the sorting order intact.
+    int[][] insertInterval(int[][] intervals, int[] newInterval) {
+        boolean isIntervalInserted = false;
+        List<int[]> list = new ArrayList<>(Arrays.asList(intervals));
+
+        for (int i = 0; i < intervals.length; i++) {
+            if (newInterval[0] < intervals[i][0]) {
+                // Found the position, insert the interval and break from the loop.
+                list.add(i, newInterval);
+                isIntervalInserted = true;
+                break;
+            }
+        }
+
+        // If there is no interval with a greater value of start value,
+        // then the interval must be inserted at the end of the list.
+        if (!isIntervalInserted) {
+            list.add(newInterval);
+        }
+
+        return list.toArray(new int[list.size()][2]);
+    }
+
+    public int[][] insert(int[][] intervals, int[] newInterval) {
+        // Insert the interval first before merge processing.
+        intervals = insertInterval(intervals, newInterval);
+
+        List<int[]> answer = new ArrayList<>();
+        for (int i = 0; i < intervals.length; i++) {
+            int[] currInterval = {intervals[i][0], intervals[i][1]};
+            // Merge until the list gets exhausted or no overlap is found.
+            while (i < intervals.length && doesIntervalsOverlap(currInterval, intervals[i])) {
+                currInterval = mergeIntervals(currInterval, intervals[i]);
+                i++;
+            }
+            // Decrement to ensure we don't skip the interval due to outer for-loop incrementing.
+            i--;
+            answer.add(currInterval);
+        }
+
+        return answer.toArray(new int[answer.size()][2]);
+    }
+}
+
+[Day-17]
+A binary string is monotone increasing if it consists of some number of 0's (possibly none), followed by some number of 1's (also possibly none).
+
+You are given a binary string s. You can flip s[i] changing it from 0 to 1 or from 1 to 0.
+
+Return the minimum number of flips to make s monotone increasing.
+
+answer.[python]
+class Solution:
+    def minFlipsMonoIncr(self, s: str) -> int:
+        #     Explanation: Our array "S" must be generally sorted as [0]*a + [1]*b
+        #         - Examples: 000, 001, 011, 111
+        #         - We can sweep through each configuration computing their cost
+        # To get started, we assume that we have an array of 1's (111), and every zero must be changed
+        # Compute this cost:
+        cost = 0
+        for x in s:
+            if x=='0':
+                cost += 1
+        # This is our baseline guess for the best answer
+        best = cost
+        #     Now we will start allowing zeros up to x=S[i] (last allowed zero)
+        #         Check how many zeros can stay for free, and..
+        #         How many 1's must be force to change as we advance
+        #
+        for x in s: # last 0 allowed
+            if x=='0':
+                cost -= 1 # this "zero" no longer is a problem (subtract from original cost)
+            else:
+                cost += 1 # this "one" must be forced to change (higher cost)
+            best = min(best,cost)
+        return best
+
+[Day-18]
+Given a circular integer array nums of length n, return the maximum possible sum of a non-empty subarray of nums.
+
+A circular array means the end of the array connects to the beginning of the array. Formally, the next element of nums[i] is nums[(i + 1) % n] and the previous element of nums[i] is nums[(i - 1 + n) % n].
+
+A subarray may only include each element of the fixed buffer nums at most once. Formally, for a subarray nums[i], nums[i + 1], ..., nums[j], there does not exist i <= k1, k2 <= j with k1 % n == k2 % n.
+
+answer.[python]
+class Solution:
+    def maxSubarraySumCircular(self, nums: List[int]) -> int:
+        maxx, minn, summ, currMax, currMin = -math.inf, math.inf, 0, -math.inf, math.inf
+        for n in nums:
+            summ += n
+            currMax = max(currMax + n, n)
+            maxx = max(maxx, currMax)
+            currMin = min(currMin + n, n)
+            minn = min(minn, currMin)
+        return max(maxx, summ - minn) if maxx > 0 else maxx
+
+[Day-19]
+Given an integer array nums and an integer k, return the number of non-empty subarrays that have a sum divisible by k.
+
+A subarray is a contiguous part of an array.
+
+answer.[java]
+class Solution {
+    public int subarraysDivByK(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0, remainder; i < nums.length; i++) {
+            if (i > 0) nums[i] += nums[i - 1];
+            //main logic:-
+            remainder = (nums[i] % k + k) % k;
+            map.put(remainder, map.getOrDefault(remainder, 0) + 1);
+        }
+        int result = map.getOrDefault(0, 0);
+        for (int frequency : map.values())
+            result += frequency * (frequency - 1) / 2;
+        return result;
+    }
+}
+
+[Day-20]
+Given an integer array nums, return all the different possible non-decreasing subsequences of the given array with at least two elements. You may return the answer in any order.
+
+answer.[java]
+class Solution {
+    int[] arr;
+    HashSet<List<Integer>> hashSet = new HashSet<>();
+    public List<List<Integer>> findSubsequences(int[] nums) {
+        arr = nums;
+        List<Integer> arrayList = new ArrayList<>();
+        recursion(arrayList,0);
+        List<List<Integer>> result = new ArrayList<>(hashSet);
+        return result;
+    }
+
+    public void recursion(List<Integer> arrayList, int index){
+        if(arrayList.size()>=2) hashSet.add(new ArrayList(arrayList));
+
+        for(int i = index;i<arr.length;i++){
+            if(arrayList.size() == 0 || arr[i]>= arrayList.get(arrayList.size()-1)){
+                arrayList.add(arr[i]);
+                recursion(arrayList,i+1);
+                arrayList.remove(arrayList.size()-1);
+            }
+        }
+
+    }
+}
+
+[Day-21]
+A valid IP address consists of exactly four integers separated by single dots. Each integer is between 0 and 255 (inclusive) and cannot have leading zeros.
+
+For example, "0.1.2.201" and "192.168.1.1" are valid IP addresses, but "0.011.255.245", "192.168.1.312" and "192.168@1.1" are invalid IP addresses.
+Given a string s containing only digits, return all possible valid IP addresses that can be formed by inserting dots into s. You are not allowed to reorder or remove any digits in s. You may return the valid IP addresses in any order.
+
+answer.[java]
+class Solution {
+    List<String> ans = new ArrayList<>();
+    String str;
+    public List<String> restoreIpAddresses(String s) {
+        str = s;
+        magical("", 0, 0);
+        return ans;
+    } 
+
+    void magical( String path, int index, int dots) {
+        if (dots > 4) return;
+        if (dots == 4 && index >= str.length()) {
+            ans.add(path.substring(0,path.length()-1));
+            return;
+        }
+        for (int length = 1; length <= 3 && index + length <= str.length(); length++) {
+            String num = str.substring(index, index + length);
+            if (num.charAt(0) == '0' && length != 1) break;
+            else if (Integer.parseInt(num) <= 255) {
+                magical( path + str.substring(index, index + length) + ".", index + length,dots + 1);
+            }
+        }
+    }
+}
+
+[Day-21]
+Given a string s, partition s such that every substring of the partition is a palindrome. 
+Return all possible palindrome partitioning of s.
+
+answer.[python]
+class Solution:
+    def partition(self, s: str) -> List[List[str]]:
+        res = []
+        
+        def backtrack(i, path):
+            if i == len(s):
+                res.append(path.copy())
+            
+            for j in range(i, len(s)):
+                if s[i:j+1] == s[i:j+1][::-1]:
+                    backtrack(j+1, path+[s[i:j+1]])
+        
+        backtrack(0, [])
+        return res
+
+[Day-22]
+In a town, there are n people labeled from 1 to n. There is a rumor that one of these people is secretly the town judge.
+
+If the town judge exists, then:
+
+The town judge trusts nobody.
+Everybody (except for the town judge) trusts the town judge.
+There is exactly one person that satisfies properties 1 and 2.
+You are given an array trust where trust[i] = [ai, bi] representing that the person labeled ai trusts the person labeled bi.
+
+Return the label of the town judge if the town judge exists and can be identified, or return -1 otherwise.
+
+answer.[java]
+class Solution {
+    public int findJudge(int n, int[][] trust) {
+        // indegree of a vertex represents number of people who trusts him
+        // outdegree of a vertex represents number of people whom he trusts
+        // Therefore we have to find a vertex who's outdegree is zero 
+        if (trust.length == 0 && n == 1) 
+            return 1;
+        int[] count = new int[n + 1];
+        for (int[] person : trust) {
+            count[person[0]]--;
+            count[person[1]]++;
+        }
+
+        for (int person = 0; person < count.length; person++) {
+            if (count[person] == n - 1) return person;
+        }
+        return -1;
+    }
+}
+
+[Day-23]
+You are given an n x n integer matrix board where the cells are labeled from 1 to n2 in a Boustrophedon style starting from the bottom left of the board (i.e. board[n - 1][0]) and alternating direction each row.
+
+You start on square 1 of the board. In each move, starting from square curr, do the following:
+
+Choose a destination square next with a label in the range [curr + 1, min(curr + 6, n2)].
+This choice simulates the result of a standard 6-sided die roll: i.e., there are always at most 6 destinations, regardless of the size of the board.
+If next has a snake or ladder, you must move to the destination of that snake or ladder. Otherwise, you move to next.
+The game ends when you reach the square n2.
+A board square on row r and column c has a snake or ladder if board[r][c] != -1. The destination of that snake or ladder is board[r][c]. Squares 1 and n2 do not have a snake or ladder.
+
+Note that you only take a snake or ladder at most once per move. If the destination to a snake or ladder is the start of another snake or ladder, you do not follow the subsequent snake or ladder.
+
+For example, suppose the board is [[-1,4],[-1,3]], and on the first move, your destination square is 2. You follow the ladder to square 3, but do not follow the subsequent ladder to 4.
+Return the least number of moves required to reach the square n2. If it is not possible to reach the square, return -1.
+
+answer.[java]
+class Solution {
+    int length = 1;
+    int [][] board;
+    public int snakesAndLadders(int[][] board) {
+        this.board = board;
+        length = board.length;
+        HashMap<Integer,Integer> visited = new HashMap();
+        visited.put(1,0);
+        Queue<Integer> arr = new LinkedList<>();
+        arr.add(1);
+        while (!arr.isEmpty()){
+            int n = arr.remove();
+            for(int i = n+1;i<=n+6;i++){
+                int next = i;
+                int nextPos = getPosition(i);
+                if(next>length*length) return -1;
+                if(nextPos!=-1){
+                    next = nextPos;
+                }
+                if(next==length*length) return visited.get(n)+1;
+                if(!visited.containsKey(next)){
+                    visited.put(next,visited.get(n)+1 );
+                     arr.add(next);
+                }   
+            }
+            
+        }
+        return -1;
+    }
+
+    public int getPosition(int n){
+        int row = (n-1)/length;
+        int column = (n-1)%length;
+        if(row%2!=0){
+            column = (column-length+1)*-1;
+        }
+        row = (row-length+1)*-1;
+        
+        int  result = board[row][column];
+        return result;
+    }
+}
+
+[Day-24]
+You are given a directed graph of n nodes numbered from 0 to n - 1, where each node has at most one outgoing edge.
+
+The graph is represented with a given 0-indexed array edges of size n, indicating that there is a directed edge from node i to node edges[i]. If there is no outgoing edge from i, then edges[i] == -1.
+
+You are also given two integers node1 and node2.
+
+Return the index of the node that can be reached from both node1 and node2, such that the maximum between the distance from node1 to that node, and from node2 to that node is minimized. If there are multiple answers, return the node with the smallest index, and if no possible answer exists, return -1.
+
+Note that edges may contain cycles.
+
+answer.[java]
+class Solution {
+
+    // Main method to find the closest meeting node for 'node1' and 'node2'.
+    public int closestMeetingNode(int[] edges, int node1, int node2) {
+
+        // The function for the depth-first search to get the distance of each node from 'node1' and 'node2'
+        // is extracted out for its reusability and better readability with named function.
+        // Note: An alternative to Integer Array is to use HashMap.
+        int[] distanceArray1 = getDistanceArray(edges, node1);
+        int[] distanceArray2 = getDistanceArray(edges, node2);
+
+        // Minimum distance from the maximum distance between 'node1' and 'node2'
+        // is set to Integer.MAX_VALUE as we are finding the minimum.
+        int minDistance = Integer.MAX_VALUE;
+
+        // If 'node1' and 'node2' do not have the same connected nodes, the default value is returned, which is -1.
+        // If any connected nodes are found, then result will not be -1.
+        int result = -1;
+
+        // Once we have the distance array for both 'node1' and 'node2',
+        // check each node to see if they have the same connected node.
+        for (int i = 0; i < edges.length; i++) {
+            // If the node is not connected to either or both 'node1' and 'node2', continue to the next node.
+            if (distanceArray1[i] == -1 || distanceArray2[i] == -1) continue;
+
+            // Get the maximum distance of the connected both from 'node1' and 'node2'.
+            // If the distance is less than the minimum distance found so far,
+            // set the result to the current node and the minimum distance to the current distance.
+            int distance = Math.max(distanceArray1[i], distanceArray2[i]);
+            if (distance < minDistance) {
+                result = i;
+                minDistance = distance;
+            }
+        }
+        // Return the index of the closest meeting node.
+        // If there are no meeting node found, -1 is returned instead.
+        return result;
+    }
+
+    // Method to get the array for the distance of each node from the input node.
+    // If the node is not connected to the input node, -1 is used.
+    private int[] getDistanceArray(int[] edges, int node) {
+        // Create a distance array with the values set to -1, indicating that the node is not visited.
+        int[] distanceArray = new int[edges.length];
+        Arrays.fill(distanceArray, -1);
+
+        // Traverse the graph from the input node, and record the distance from the node.
+        // If the node already has a distance recorded (not -1),
+        // it means that the node is visited and there is a cycle in the graph.
+        // Thus, stop the traversal when a cycle is found or when we have reached the last node in the path.
+        int distance = 0;
+        while (node != -1 && distanceArray[node] == -1) {
+            distanceArray[node] = distance++;
+            node = edges[node];
+        }
+        // Return the distance array.
+        return distanceArray;
+    }
+}
+
+[Day-25]
+There are n cities connected by some number of flights. You are given an array flights where flights[i] = [fromi, toi, pricei] indicates that there is a flight from city fromi to city toi with cost pricei.
+
+You are also given three integers src, dst, and k, return the cheapest price from src to dst with at most k stops. If there is no such route, return -1.
+
+answer.[java]
+//this can be solved using dijkstra's algo-shortest path
+class Pair{
+    int first;
+    int second;
+    public Pair(int first,int second){
+        this.first = first;
+        this.second = second;
+    }
+}
+class Tuple {
+    int first, second, third; 
+    Tuple(int first, int second, int third) {
+        this.first = first; 
+        this.second = second;
+        this.third = third; 
+    }
+}
+class Solution {
+    public int findCheapestPrice(int n,int flights[][],int src,int dst,int K) {
+
+        // Create the adjacency list to depict airports and flights in
+        // the form of a graph.
+        ArrayList<ArrayList<Pair>> adj = new ArrayList<>(); 
+        for(int i = 0;i<n;i++) {
+            adj.add(new ArrayList<>()); 
+        }
+        int m = flights.length; 
+        for(int i = 0;i<m;i++) {
+            adj.get(flights[i][0]).add(new Pair(flights[i][1], flights[i][2])); 
+        }
+        
+        // Create a queue which stores the node and their distances from the
+        // source in the form of {stops, {node, dist}} with ‘stops’ indicating 
+        // the no. of nodes between src and current node.
+        Queue<Tuple> q = new LinkedList<>(); 
+        
+        q.add(new Tuple(0, src, 0));
+
+        // Distance array to store the updated distances from the source. 
+        int[] dist = new int[n]; 
+        for(int i = 0;i<n;i++) {
+            dist[i] = (int)(1e9); 
+        }
+        dist[src] = 0; 
+
+        // Iterate through the graph using a queue like in Dijkstra with 
+        // popping out the element with min stops first.
+        while(!q.isEmpty()) {
+            Tuple it = q.peek(); 
+            q.remove(); 
+            int stops = it.first; 
+            int node = it.second; 
+            int cost = it.third; 
+            
+            // We stop the process as soon as the limit for the stops reaches.
+            if(stops > K) continue; 
+            for(Pair iter: adj.get(node)) {
+                int adjNode = iter.first; 
+                int edW = iter.second; 
+                
+                // We only update the queue if the new calculated dist is
+                // less than the prev and the stops are also within limits.
+                if (cost + edW < dist[adjNode] && stops <= K) {
+                    dist[adjNode] = cost + edW; 
+                    q.add(new Tuple(stops + 1, adjNode, cost + edW)); 
+                }
+            }
+        }
+        // If the destination node is unreachable return ‘-1’
+        // else return the calculated dist from src to dst.
+        if(dist[dst] == (int)(1e9)) return -1; 
+        return dist[dst]; 
+    }
+}
+
+[Day-26]
+Given an array of strings words (without duplicates), return all the concatenated words in the given list of words.
+
+A concatenated word is defined as a string that is comprised entirely of at least two shorter words in the given array.
+
+answer.[python]
+class Solution:
+    def findAllConcatenatedWordsInADict(self, words: List[str]) -> List[str]:
+        s = set()
+        concatenateWords = []
+        for word in words:
+            s.add(word)
+        for word in words:
+            if self.checkConcatenate(word, s) == True:
+                concatenateWords.append(word)
+        return concatenateWords
+    def checkConcatenate(self, word: str, s: set) -> bool:
+        for i in range(1, len(word)):
+            prefixWord = word[:i]
+            suffixWord = word[i:]
+            if prefixWord in s and (suffixWord in s or self.checkConcatenate(suffixWord, s)):
+                return True
+        return False
+
+[Day-27](Hard)
+Given a data stream input of non-negative integers a1, a2, ..., an, summarize the numbers seen so far as a list of disjoint intervals.
+
+Implement the SummaryRanges class:
+
+SummaryRanges() Initializes the object with an empty stream.
+void addNum(int value) Adds the integer value to the stream.
+int[][] getIntervals() Returns a summary of the integers in the stream currently as a list of disjoint intervals [starti, endi]. The answer should be sorted by starti.
+
+answer.[java]
+class SummaryRanges {
+  public void addNum(int val) {
+    if (map.containsKey(val))
+      return;
+
+    final Integer lo = map.lowerKey(val);  // Maximum in map < key
+    final Integer hi = map.higherKey(val); // Minimum in map > key
+
+    // {lo, map.get(lo)[1]} + val + {hi, map.get(hi)[1]} = {lo, map.get(hi)[1]}
+    if (lo != null && hi != null && map.get(lo)[1] + 1 == val && val + 1 == hi) {
+      map.get(lo)[1] = map.get(hi)[1];
+      map.remove(hi);
+      // {lo, map.get(lo)[1]} + val = {lo, val}
+      // (prevent adding duplicate entry by using '>=' instead of '==')
+    } else if (lo != null && map.get(lo)[1] + 1 >= val) {
+      map.get(lo)[1] = Math.max(map.get(lo)[1], val);
+      // Val + {hi, map.get(hi)[1]} = {val, map.get(hi)[1]}
+    } else if (hi != null && val + 1 == hi) {
+      map.put(val, new int[] {val, map.get(hi)[1]});
+      map.remove(hi);
+    } else {
+      map.put(val, new int[] {val, val});
+    }
+  }
+
+  public int[][] getIntervals() {
+    List<int[]> intervals = new ArrayList<>(map.values());
+    return intervals.toArray(new int[intervals.size()][]);
+  }
+
+  // {start: {start, end}}
+  private TreeMap<Integer, int[]> map = new TreeMap<>();
+}
+
+[Day-28](hard)
+Design and implement a data structure for a Least Frequently Used (LFU) cache.
+
+Implement the LFUCache class:
+
+LFUCache(int capacity) Initializes the object with the capacity of the data structure.
+int get(int key) Gets the value of the key if the key exists in the cache. Otherwise, returns -1.
+void put(int key, int value) Update the value of the key if present, or inserts the key if not already present. When the cache reaches its capacity, it should invalidate and remove the least frequently used key before inserting a new item. For this problem, when there is a tie (i.e., two or more keys with the same frequency), the least recently used key would be invalidated.
+To determine the least frequently used key, a use counter is maintained for each key in the cache. The key with the smallest use counter is the least frequently used key.
+
+When a key is first inserted into the cache, its use counter is set to 1 (due to the put operation). The use counter for a key in the cache is incremented either a get or put operation is called on it.
+
+The functions get and put must each run in O(1) average time complexity.
+
+ 
+answer.[java]
+class LFUCache {
+
+    final int capacity;  //total capacity of LFU Cache
+    int currSize;   //curr size of LFU Cache
+    int minFrequency;    //minimum freq of the entire LFU Cache
+    Map<Integer, DLLNode> cache;    //HashMap containing key to node mapping, storing all nodes by their keys
+    Map<Integer, DoubleLinkedList> frequencyMap;    //HashMap containing key to LL mapping, storing all DLL by their frequencies
+
+
+    public LFUCache(int capacity) 
+    {
+        this.capacity = capacity;
+        this.currSize = 0;
+        this.minFrequency = 0;
+
+        this.cache = new HashMap<>();
+        this.frequencyMap = new HashMap<>();
+    }
+    //getting node value by key, and then updating node frequency and relocating that node 
+    public int get(int key) 
+    {
+        DLLNode currNode = cache.get(key);
+        if(currNode == null)
+        {
+            return -1;
+        }
+        updateNode(currNode);
+        return currNode.val;
+    }
+
+    /* adding new node into LFU cache and DLL -->
+        1. if LFU has input key, update node value and node pos in list
+        2. if LFU cache does not have input key,
+            a) if LFU cache does not have enough space --> remove the LRU node in min frequency list and then add new node
+            b) if LFU cache have enough space, add new node directly
+    */
+    
+    public void put(int key, int value) 
+    {
+        //always check for the cache capacity
+        if(capacity == 0)
+        {
+            return;
+        }
+
+        if(cache.containsKey(key))
+        {
+            DLLNode currNode = cache.get(key);
+            currNode.val = value;
+            updateNode(currNode);
+        }
+        else
+        {
+            currSize++;
+            if(currSize > capacity)
+            {
+                //getting minimum freq list
+                DoubleLinkedList minFreqList = frequencyMap.get(minFrequency);
+                cache.remove(minFreqList.tail.prev.key);
+                minFreqList.removeNode(minFreqList.tail.prev);
+                currSize--;
+            }
+            //changing min frequency back to 1 because of adding new node
+            minFrequency = 1;
+            DLLNode newNode = new DLLNode(key, value);
+
+            //getting the list with frequency 1, and adding new node into the list, and into LFU cache
+            DoubleLinkedList curList = frequencyMap.getOrDefault(1, new DoubleLinkedList());
+            curList.addNode(newNode);
+            frequencyMap.put(1, curList);
+            cache.put(key, newNode);
+        }
+    }
+
+    public void updateNode(DLLNode currNode)
+    {
+        int currFreq = currNode.frequency;
+        DoubleLinkedList curList = frequencyMap.get(currFreq);
+        curList.removeNode(currNode);
+
+        //if current list(last list ) which has lowest frequency and current node is the only node in that list , remove the entire list and then increase min frequency value by 1
+        if (currFreq == minFrequency && curList.listSize == 0) {
+            minFrequency++;
+        }
+
+        currNode.frequency++;
+        //adding current node to another list has current frequency + 1,
+        //if we do not have the list with this frequency, initialize it
+        DoubleLinkedList newList = frequencyMap.getOrDefault(currNode.frequency, new DoubleLinkedList());
+        newList.addNode(currNode);
+        frequencyMap.put(currNode.frequency, newList);
+
+
+
+    }
+
+    class DLLNode 
+    {
+        int key;
+        int val;
+        int frequency;
+        DLLNode prev;
+        DLLNode next;
+
+        public DLLNode(int key, int val) 
+        {
+            this.key = key;
+            this.val = val;
+            this.frequency = 1;
+        }
+    }
+
+    class DoubleLinkedList 
+    {
+        int listSize;
+        DLLNode head;
+        DLLNode tail;
+        public DoubleLinkedList() 
+        {
+            this.listSize = 0;
+            this.head = new DLLNode(0, 0);
+            this.tail = new DLLNode(0, 0);
+            head.next = tail;
+            tail.prev = head;
+        }
+
+        //adding new node into head of list and increasing list size by 1 
+        public void addNode(DLLNode currNode) {
+            DLLNode nextNode = head.next;
+            currNode.next = nextNode;
+            currNode.prev = head;
+            head.next = currNode;
+            nextNode.prev = currNode;
+            listSize++;
+        }
+
+        //removing input node and decreasing list size by 1
+        public void removeNode(DLLNode currNode) {
+            DLLNode prevNode = currNode.prev;
+            DLLNode nextNode = currNode.next;
+            prevNode.next = nextNode;
+            nextNode.prev = prevNode;
+            listSize--;
+        }
+
+    }
+
+}
+
+/**
+ * Your LFUCache object will be instantiated and called as such:
+ * LFUCache obj = new LFUCache(capacity);
+ * int param_1 = obj.get(key);
+ * obj.put(key,value);
+ */ 
+
+[Day-29]
+The Tribonacci sequence Tn is defined as follows: 
+
+T0 = 0, T1 = 1, T2 = 1, and Tn+3 = Tn + Tn+1 + Tn+2 for n >= 0.
+
+Given n, return the value of Tn.
+
+answer.[python]
+class Solution:
+    def tribonacci(self, n: int) -> int:
+        if n == 0:
+            return 0
+        elif n<=2:
+            return 1
+        a, b, c = 0, 1, 1
+        for i in range(n-3):
+            d = a + b + c
+            a, b, c = b, c, d
+        return a+b+c
+
+[Day-30]
+You are the manager of a basketball team. For the upcoming tournament, you want to choose the team with the highest overall score. The score of the team is the sum of scores of all the players in the team.
+
+However, the basketball team is not allowed to have conflicts. A conflict exists if a younger player has a strictly higher score than an older player. A conflict does not occur between players of the same age.
+
+Given two lists, scores and ages, where each scores[i] and ages[i] represents the score and age of the ith player, respectively, return the highest overall score of all possible basketball teams.
+
+answer.[java]
+class Solution {
+    int res = 0;
+    public int bestTeamScore(int[] scores, int[] ages) {
+        int len = scores.length;
+        int[][] team = new int[len][2];
+        for (int i = 0; i < len; i++) {
+            team[i][0] = ages[i];
+            team[i][1] = scores[i]; // team is [age, score]
+        }
+		// double sort first by age then by score, then we can traverse from young to old
+        Arrays.sort(team, (a, b) -> a[0] != b[0] ? a[0] - b[0] : a[1] - b[1]);
+        
+        int[] dp = new int[len];
+        // dp is the max sum for all sequences (not necessarily consecutive) ending in current idx
+        dp[0] = team[0][1];
+        for (int i = 1; i < len; i++) {
+            int max = team[i][1]; // At least it could start a new sequence by itself without extend
+			// for each current idx, go visit all previous index to grow the sequences
+            for (int j = 0; j < i; j++) {
+                if (team[i][1] >= team[j][1]) {
+                    max = Math.max(max, dp[j] + team[i][1]);
+                }
+            }
+            dp[i] = max;
+        }
+      
+        int res = 0;
+        for (int num : dp) {
+            res = Math.max(res, num);
+        }
+        
+        return res;
+    }
+}
