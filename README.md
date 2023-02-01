@@ -5,4 +5,4 @@
 
 | # | Problem | Difficulty | Solution |      
 |---|---------|------------|----------|
-1 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Java](./February2023/greatest_common_divisor.java)
+1 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Java](./February 2023/greatest_common_divisor.java)
