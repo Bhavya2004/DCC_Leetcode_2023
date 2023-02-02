@@ -6,4 +6,4 @@
 | # | Problem | Difficulty | Solution | Month |     
 |---|---------|------------|----------|-------|
 1 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Java](./February%202023/greatest_common_divisor.java) | Feb |
-2 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Java](./February%202023/Verifying_an_Alien_Dictionary.java)
+2 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Java](./February%202023/Verifying_an_Alien_Dictionary.java) | Feb |
