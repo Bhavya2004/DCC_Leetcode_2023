@@ -6,7 +6,7 @@
 <p float="left">
   <img src="./January%202023/Badge.png" width="90" height="75"/>
   <img src="./January%202023/SQL_1.png" width="90" height="75"/> 
-  <img src="./January%202023/DS.png" width="90" height="85"/>
+  <img src="./January%202023/DS_1.png" width="90" height="75"/>
 </p>
 <!-- ![plot](./January%202023/Badge.png) ![plot](./January%202023/SQL_1.png) ![plot](./January%202023/DS.png) -->
 
