@@ -3,7 +3,7 @@
 ![Github](https://img.shields.io/badge/languages-java-green.svg?longCache=true&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)
 # Badges
-![plot](./January%202023/Badge.png)
+![plot](./January%202023/Badge.png) ![plot](./January%202023/SQL_1.png) ![plot](./January%202023/DS.png)
 
 | Date | Problem | Difficulty | Solution | Month |     
 |---|---------|------------|----------|-------|
