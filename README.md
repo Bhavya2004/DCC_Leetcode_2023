@@ -18,3 +18,4 @@
 4 | [ Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Java](./February%202023/Permutation_in_String.java) | Feb |
 5 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Java](/February%202023/Find_All_Anagrams_in_a_String.java) | Feb |
 6 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | Easy | [Java](./February%202023/Shuffle_The_Array.java) | Feb |
+7 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Java](./February%202023/Fruit_Into_Baskets.java) | Feb |
