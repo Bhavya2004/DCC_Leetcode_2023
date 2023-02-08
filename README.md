@@ -19,3 +19,4 @@
 5 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Java](/February%202023/Find_All_Anagrams_in_a_String.java) | Feb |
 6 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | Easy | [Java](./February%202023/Shuffle_The_Array.java) | Feb |
 7 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Java](./February%202023/Fruit_Into_Baskets.java) | Feb |
+8 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [Java](./February%202023/Jump_Game_II.java) | Feb |
