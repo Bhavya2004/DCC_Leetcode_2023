@@ -20,3 +20,4 @@
 6 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) | Easy | [Java](./February%202023/Shuffle_The_Array.java) | Feb |
 7 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | [Java](./February%202023/Fruit_Into_Baskets.java) | Feb |
 8 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [Java](./February%202023/Jump_Game_II.java) | Feb |
+9 | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | Hard | [Java](./February%202023/Naming_a_Company.java) | Feb |
