@@ -23,3 +23,4 @@
 9 | [Naming a Company](https://leetcode.com/problems/naming-a-company/) | Hard | [Java](./February%202023/Naming_a_Company.java) | Feb |
 10 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | Medium | [Java](./February%202023/As_Far_from_Land_as_Possible.java) | Feb |
 11 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) | Medium | [Java](./February%202023/Shortest_Path_with_Alternating_Colors.java) | Feb |
+12 | [ Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | Medium | [Java]( ./February%202023/Minimum_Fuel_Cost_to_Report_to_the_Capital.java) | Feb |
