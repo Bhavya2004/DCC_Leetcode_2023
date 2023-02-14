@@ -25,3 +25,4 @@
 11 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/description/) | Medium | [Java](./February%202023/Shortest_Path_with_Alternating_Colors.java) | Feb |
 12 | [ Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | Medium | [Java]( ./February%202023/Minimum_Fuel_Cost_to_Report_to_the_Capital.java) | Feb |
 13 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Java](./February%202023/Count_Odd_Numbers_in_an_Interval_Range.java) | Feb |
+14 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](./February%202023/Add_Binary.py) | Feb |
