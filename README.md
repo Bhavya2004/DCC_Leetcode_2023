@@ -27,3 +27,4 @@
 13 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [Java](./February%202023/Count_Odd_Numbers_in_an_Interval_Range.java) | Feb |
 14 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Python](./February%202023/Add_Binary.py) | Feb |
 15 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/) | Easy | [Python](./February%202023/Add_to_Array_Form_of_Integer.py) | Feb |
+16 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy | [Java](./February%202023/Maximum_Depth_of_Binary_Tree.java) | Feb |
