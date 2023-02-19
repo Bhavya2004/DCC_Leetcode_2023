@@ -30,3 +30,4 @@
 16 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | Easy | [Java](./February%202023/Maximum_Depth_of_Binary_Tree.java) | Feb |
 17 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | Easy | [Python](./February%202023/Minimum_Distance_Between_BST_Nodes.py) | Feb |
 18 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Python](./February%202023/Invert_Binary_Tree.py) | Feb |
+19 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | Medium | [Python](./February%202023/Binary_Tree_Zigzag_Level_Order_Traversal.py) | Feb |
