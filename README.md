@@ -32,3 +32,4 @@
 18 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Python](./February%202023/Invert_Binary_Tree.py) | Feb |
 19 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | Medium | [Python](./February%202023/Binary_Tree_Zigzag_Level_Order_Traversal.py) | Feb |
 20 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Python](./February%202023/Search_Insert_Position.py) | Feb |
+21 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | Medium | [Python](./February%202023/Single_Element_in_a_Sorted_Array.py) | Feb |
