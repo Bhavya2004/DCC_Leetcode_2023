@@ -2,13 +2,8 @@
 
 ![Github](https://img.shields.io/badge/languages-java-green.svg?longCache=true&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)
-# Badges
-<p float="left">
-  <img src="./January%202023/Badge.png" width="90" height="75"/>
-  <img src="./January%202023/SQL_1.png" width="90" height="75"/> 
-  <img src="./January%202023/DS_1.png" width="350" height="82"/>
-</p>
-<!-- ![plot](./January%202023/Badge.png) ![plot](./January%202023/SQL_1.png) ![plot](./January%202023/DS.png) -->
+
+
 
 | Date | Problem | Difficulty | Solution | Month |     
 |---|---------|------------|----------|-------|
@@ -36,3 +31,4 @@
 22 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Python](./February%202023/Capacity_To_Ship_Packages_Within_D_Days.py) | Feb |
 23 | [IPO](https://leetcode.com/problems/ipo/) | Hard | [Java](./February%202023/IPO.java) | Feb |
 24 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/description/) | Hard | [Java](./February%202023/Minimize_Deviation_in_Array.java) | Feb |
+25 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Python](./February%202023/Best_Time_to_Buy_and_Sell_Stock.py) | Feb |
