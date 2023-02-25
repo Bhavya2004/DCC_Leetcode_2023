@@ -1,8 +1,7 @@
 # [LeetCode](https://www.leetcode.com/)
 
-![Github](https://img.shields.io/badge/languages-java-green.svg?longCache=true&style=for-the-badge)
-![Github](https://img.shields.io/badge/languages-python-green.svg?longCache=true&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)
+![Github](https://img.shields.io/badge/languages-java-green.svg?longCache=true&style=for-the-badge)(https://img.shields.io/badge/languages-python-green.svg?longCache=true&style=for-the-badge)
+
 
 
 
