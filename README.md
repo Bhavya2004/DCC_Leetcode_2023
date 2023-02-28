@@ -32,3 +32,4 @@
 25 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Python](./February%202023/Best_Time_to_Buy_and_Sell_Stock.py) | Feb |
 26 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Java](./February%202023/Edit_Distance.java) | Feb |
 27 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) | Medium | [Java](./February%202023/Construct_Quad_Tree.java) | Feb |
+28 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | [Java](./February%202023/Find_Duplicate_Subtrees.java) | Feb |
