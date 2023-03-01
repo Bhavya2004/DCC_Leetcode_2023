@@ -33,3 +33,4 @@
 26 | 26/2/23 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Java](./February%202023/Edit_Distance.java) | Feb |
 27 | 27/2/23 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/) | Medium | [Java](./February%202023/Construct_Quad_Tree.java) | Feb |
 28 | 28/2/23 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | [Java](./February%202023/Find_Duplicate_Subtrees.java) | Feb |
+29 | 1/3/23 | [Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | Medium | [Python](./March%202023/Sort_an_Array.py) | Mar |
