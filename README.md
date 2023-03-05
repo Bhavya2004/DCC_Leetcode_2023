@@ -37,3 +37,4 @@
 30 | 2/3/23 | [String Compression](https://leetcode.com/problems/string-compression/description/) | Medium | [Python](./March%202023/String_Compression.py) | Mar |
 31 | 3/3/23 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Medium | [Pyhon](./March%202023/Find_the_Index_of_the_First_Occurrence_in_a_String.py) | Mar |
 32 | 4/3//23 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/) | Hard | [Java](./March%202023/Count_Subarrays_With_Fixed_Bounds.java) | Mar |
+33 | 5/3/23 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | [Java](./March%202023/Jump_Game_IV.java) | Mar |
