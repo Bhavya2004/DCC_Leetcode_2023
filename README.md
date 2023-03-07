@@ -39,3 +39,4 @@
 32 | 4/3//23 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/) | Hard | [Java](./March%202023/Count_Subarrays_With_Fixed_Bounds.java) | Mar |
 33 | 5/3/23 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | [Java](./March%202023/Jump_Game_IV.java) | Mar |
 34 | 6/3/23 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | [Python](./March%202023/Kth_Missing_Positive_Number.py) | Mar |
+35 | 7/3/23 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | [Python](./March%202023/Minimum_Time_to_Complete_Trips.py) | Mar |
