@@ -44,3 +44,4 @@
 37 | 9/3/23 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Medium | [Python](./March%202023/Linked_List_Cycle_II.py) | Mar |
 38 | 10/3/23 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | [Java](./March%202023/Linked_List_Random_Node.java) | Mar |
 39 | 11/3/23 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [Python](./March%202023/Convert_Sorted_List_to_Binary_Search_Tree.py) | Mar |
+40 | 12/3/23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Python](./March%202023/Merge_k_Sorted_Lists.py) | Mar |
