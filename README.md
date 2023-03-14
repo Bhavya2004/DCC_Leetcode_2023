@@ -46,3 +46,4 @@
 39 | 11/3/23 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [Python](./March%202023/Convert_Sorted_List_to_Binary_Search_Tree.py) | Mar |
 40 | 12/3/23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Python](./March%202023/Merge_k_Sorted_Lists.py) | Mar |
 41 | 13/3/23 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Java](./March%202023/Symmetric_Tree.java) | Mar |
+42 | 14/3/23 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Python](./March%202023/Sum_Root_to_Leaf_Numbers.py) | Mar |
