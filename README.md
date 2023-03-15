@@ -47,3 +47,4 @@
 40 | 12/3/23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Python](./March%202023/Merge_k_Sorted_Lists.py) | Mar |
 41 | 13/3/23 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Java](./March%202023/Symmetric_Tree.java) | Mar |
 42 | 14/3/23 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Python](./March%202023/Sum_Root_to_Leaf_Numbers.py) | Mar |
+43 | 15/3/23 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | [Python](./March%202023/Check_Completeness_of_a_Binary_Tree.py) | Mar |
