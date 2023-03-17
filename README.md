@@ -49,4 +49,4 @@
 42 | 14/3/23 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Python](./March%202023/Sum_Root_to_Leaf_Numbers.py) | Mar |
 43 | 15/3/23 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | [Python](./March%202023/Check_Completeness_of_a_Binary_Tree.py) | Mar |
 44 | 16/3/23 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | [Python](./March%202023/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py) | Mar |
-45 | 17/3/23 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](./March%202023/Implement_Trie_Prefix_Tree.py) | Mar |
+45 | 17/3/23 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](./March%202023/Implement_Trie_Prefix_Tree.py) | Mar |
