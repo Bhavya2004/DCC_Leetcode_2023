@@ -50,3 +50,4 @@
 43 | 15/3/23 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | Medium | [Python](./March%202023/Check_Completeness_of_a_Binary_Tree.py) | Mar |
 44 | 16/3/23 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | [Python](./March%202023/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py) | Mar |
 45 | 17/3/23 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](./March%202023/Implement_Trie_Prefix_Tree.py) | Mar |
+46 | 18/3/23 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | [Python](./March%202023/Design_Browser_History.py) | Mar |
