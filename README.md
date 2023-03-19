@@ -51,4 +51,4 @@
 44 | 16/3/23 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | [Python](./March%202023/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py) | Mar |
 45 | 17/3/23 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](./March%202023/Implement_Trie_Prefix_Tree.py) | Mar |
 46 | 18/3/23 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | [Python](./March%202023/Design_Browser_History.py) | Mar |
-47 | 19/3/23 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Python](./March%202023/Design_Add_and_Search_Words_Data_Structure.py) | Mar |
+47 | 19/3/23 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | [Python](./March%202023/Design_Add_and_Search_Words_Data_Structure.py) | Mar |
