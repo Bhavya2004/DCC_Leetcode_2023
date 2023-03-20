@@ -52,3 +52,4 @@
 45 | 17/3/23 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Python](./March%202023/Implement_Trie_Prefix_Tree.py) | Mar |
 46 | 18/3/23 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | Medium | [Python](./March%202023/Design_Browser_History.py) | Mar |
 47 | 19/3/23 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | [Python](./March%202023/Design_Add_and_Search_Words_Data_Structure.py) | Mar |
+48 | 20/3/23 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | [Python](./March%202023/Can_Place_Flowers.py) | Mar |
