@@ -54,4 +54,4 @@
 47 | 19/3/23 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium | [Python](./March%202023/Design_Add_and_Search_Words_Data_Structure.py) | Mar |
 48 | 20/3/23 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | [Python](./March%202023/Can_Place_Flowers.py) | Mar |
 49 | 21/3/23 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | Medium | [Python](./March%202023/Number_of_Zero_Filled_Subarrays.py) | Mar |
-
+50 | 22/3/23 | [ Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [Python](./March%202023/Minimum_Score_of_a_Path_Between_Two_Cities.py) | Mar |
