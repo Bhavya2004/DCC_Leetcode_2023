@@ -56,3 +56,4 @@
 49 | 21/3/23 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | Medium | [Python](./March%202023/Number_of_Zero_Filled_Subarrays.py) | Mar |
 50 | 22/3/23 | [ Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [Python](./March%202023/Minimum_Score_of_a_Path_Between_Two_Cities.py) | Mar |
 51 | 23/3/23 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [Python](./March%202023/Number_of_Operations_to_Make_Network_Connected.py) | Mar |
+52 | 24/3/23 | [Reorder Routes to Make All Paths Lead to the City](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium | [Python](./March%202023/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City.py) | Mar |
