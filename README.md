@@ -57,3 +57,4 @@
 50 | 22/3/23 | [ Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | Medium | [Python](./March%202023/Minimum_Score_of_a_Path_Between_Two_Cities.py) | Mar |
 51 | 23/3/23 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [Python](./March%202023/Number_of_Operations_to_Make_Network_Connected.py) | Mar |
 52 | 24/3/23 | [Reorder Routes to Make All Paths Lead to the City](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium | [Python](./March%202023/Reorder_Routes_to_Make_All_Paths_Lead_to_the_City.py) | Mar |
+53 | 25/3/23 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | [Python](./March%202023/Count_Unreachable_Pairs_of_Nodes_in_an_Undirected_Graph.py) | Mar |
