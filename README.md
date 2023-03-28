@@ -60,3 +60,4 @@
 53 | 25/3/23 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium | [Python](./March%202023/Count_Unreachable_Pairs_of_Nodes_in_an_Undirected_Graph.py) | Mar |
 54 | 26/3/23 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) | Hard | [Python](./March%202023/Longest_Cycle_in_a_Graph.py) | Mar |
 55 | 27/3/23 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Python](./March%202023/Minimum_Path_Sum.py) | Mar |
+56 | 28/3/23 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium | [Python](./March%202023/Minimum_Cost_For_Tickets.py) | Mar |
