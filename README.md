@@ -62,3 +62,4 @@
 55 | 27/3/23 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Python](./March%202023/Minimum_Path_Sum.py) | Mar |
 56 | 28/3/23 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | Medium | [Python](./March%202023/Minimum_Cost_For_Tickets.py) | Mar |
 57 | 29/3/23 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/) | Hard | [Python](./March%202023/Reducing_Dishes.py) | Mar |
+58 | 30/3/23 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [Python](./March%202023/Scramble_String.py) | Mar |
