@@ -40,7 +40,7 @@
 33 | 5/3/23 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | Hard | [Java](./March%202023/Jump_Game_IV.java) | Mar |
 34 | 6/3/23 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy | [Python](./March%202023/Kth_Missing_Positive_Number.py) | Mar |
 35 | 7/3/23 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | Medium | [Python](./March%202023/Minimum_Time_to_Complete_Trips.py) | Mar |
-36 | 8/323 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Medium | [Java](./March%202023/Koko_Eating_Bananas.java) | Mar |
+36 | 8/3/23 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | Medium | [Java](./March%202023/Koko_Eating_Bananas.java) | Mar |
 37 | 9/3/23 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | Medium | [Python](./March%202023/Linked_List_Cycle_II.py) | Mar |
 38 | 10/3/23 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | Medium | [Java](./March%202023/Linked_List_Random_Node.java) | Mar |
 39 | 11/3/23 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | [Python](./March%202023/Convert_Sorted_List_to_Binary_Search_Tree.py) | Mar |
