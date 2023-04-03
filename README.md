@@ -66,3 +66,4 @@
 59 | 31/3/23 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | Hard | [Python](./March%202023/Number_of_Ways_of_Cutting_a_Pizza.py) | Mar |
 60 | 1/4/23 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Python](./April%202023/Binary_Search.py) | Apr |
 61 | 2/4/23 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | [Python](./April%202023/Successful_Pairs_of_Spells_and_Potions.py) | Apr |
+62 | 3/4/23 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Python](./April%202023/Boats_to_Save_People.py) | Apr |
