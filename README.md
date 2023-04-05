@@ -68,3 +68,4 @@
 61 | 2/4/23 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | Medium | [Python](./April%202023/Successful_Pairs_of_Spells_and_Potions.py) | Apr |
 62 | 3/4/23 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | [Python](./April%202023/Boats_to_Save_People.py) | Apr |
 63 | 4/4/23 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | [Python](./April%202023/Optimal_Partition_of_String.py) | Apr |
+64 | 5/4/23 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/) | Medium | [Python](./April%202023/Minimize_Maximum_of_Array.py) | Apr |
