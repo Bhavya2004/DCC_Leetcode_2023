@@ -70,3 +70,4 @@
 63 | 4/4/23 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/) | Medium | [Python](./April%202023/Optimal_Partition_of_String.py) | Apr |
 64 | 5/4/23 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/description/) | Medium | [Python](./April%202023/Minimize_Maximum_of_Array.py) | Apr |
 65 | 6/4/23 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | [Python](./April%202023/Number_of_Closed_Islands.py) | Apr |
+66 | 7/4/23 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Python](./April%202023/Number_of_Enclaves.py) | Apr |
