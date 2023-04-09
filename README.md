@@ -72,3 +72,4 @@
 65 | 6/4/23 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | [Python](./April%202023/Number_of_Closed_Islands.py) | Apr |
 66 | 7/4/23 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | Medium | [Python](./April%202023/Number_of_Enclaves.py) | Apr |
 67 | 8/4/23 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Medium | [Python](./April%202023/Clone_Graph.py) | Apr |
+68 | 9/4/23 | [ Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | Hard | [Pyhton](./April%202023/Largest_Color_Value_in_a_Directed_Graph.py) | Apr |
