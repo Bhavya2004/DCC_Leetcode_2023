@@ -74,3 +74,4 @@
 67 | 8/4/23 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | Medium | [Python](./April%202023/Clone_Graph.py) | Apr |
 68 | 9/4/23 | [ Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) | Hard | [Pyhton](./April%202023/Largest_Color_Value_in_a_Directed_Graph.py) | Apr |
 69 | 10/4/23 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./April%202023/Valid_Parentheses.py) | Apr |
+70 | 11/4/23 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | [Python](./April%202023/Removing_Stars_From_a_String.py) | Apr |
