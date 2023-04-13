@@ -5,7 +5,7 @@
 
 |Sr.| Date | Problem | Difficulty | Solution | Month |     
 |---|---|---------|------------|----------|-------|
-1 | 1/1/23 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | <span style="color:green">Easy</span> | [Java](./January%202023/Word_Pattern.java) | Jan |
+1 | 1/1/23 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | Easy | [Java](./January%202023/Word_Pattern.java) | Jan |
 2 | 2/1/23 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | Easy | [Python](./January%202023/Detect_Capital.py) | Jan |
 3 | 3/1/23 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | Easy | [Java](./January%202023/Delete_Columns_to_Make_Sorted.java) | Jan |
 4 | 4/1/23 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | Medium | [Java](./January%202023/Minimum_Rounds_to_Complete_All_Tasks.java) | Jan |
