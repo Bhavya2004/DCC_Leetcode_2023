@@ -25,6 +25,17 @@
 18 | 18/1/23 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [Python](./January%202023/Maximum_Sum_Circular_Subarray.py) | Jan |
 19 | 19/1/23 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | [Java](./January%202023/Subarray_Sums_Divisible_by_K.java) | Jan |
 20 | 20/1/23 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | Medium | [Java](./January%202023/Non_decreasing_Subsequences.java) | Jan |
+21 | 21/1/23 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | [Java](Restore_IP_Addresses.java) | Jan |
+22 | 22/1/23 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Python](./January%202023/Palindrome_Partitioning.py) | Jan |
+23 | 23/1/23 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | [Java](./January%202023/Find_the_Town_Judge.java) | Jan |
+24 | 24/1/23 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | Medium | [Java](./January%202023/Snakes_and_Ladders.java) | Jan |
+25 | 25/1/23 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | Medium | [Java](./January%202023/Find_Closest_Node_to_Given_Two_Nodes.java) | Jan |
+26 | 26/1/23 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | [Java](./January%202023/Cheapest_Flights_Within_K_Stops.java) | Jan |
+27 | 27/1/23 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | Hard | [Python](./January%202023/Concatenated_Words.py) | Jan |
+28 | 28/1/23 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | Hard | [Java](./January%202023/Data_Stream_as_Disjoint_Intervals.java) | Jan |
+29 | 29/1/23 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | Hard | [Java](./January%202023/LFU_Cache.java) | Jan |
+30 | 30/1/23 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | [Python](./January%202023/N_th_Tribonacci_Number.py) | Jan |
+31 | 31/1/23 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | Medium | [Java](./January%202023/Best_Team_With_No_Conflicts.java) | Jan |
 1 | 1/2/23 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Java](./February%202023/greatest_common_divisor.java) | Feb |
 2 | 2/2/23 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Java](./February%202023/Verifying_an_Alien_Dictionary.java) | Feb |
 3 | 3/2/23 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Java](./February%202023/Zigzag_Conversion.java) | Feb |
