@@ -76,3 +76,4 @@
 69 | 10/4/23 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Python](./April%202023/Valid_Parentheses.py) | Apr |
 70 | 11/4/23 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | [Python](./April%202023/Removing_Stars_From_a_String.py) | Apr |
 71 | 12/4/23 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Python](./April%202023/Simplify_Path.py) | Apr |
+72 | 13/4/23 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./April%202023/Validate_Stack_Sequences.py) | Apr |
