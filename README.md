@@ -11,6 +11,20 @@
 4 | 4/1/23 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | Medium | [Java](./January%202023/Minimum_Rounds_to_Complete_All_Tasks.java) | Jan |
 5 | 5/1/23 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | [Java](./January%202023/Minimum_Number_of_Arrows_to_Burst_Balloons.java) | Jan |
 6 | 6/1/23 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Medium | [Java](./January%202023/Maximum_Ice_Cream_Bars.java) | Jan |
+7 | 7/1/23 | [Gas Station](https://leetcode.com/problems/gas-station/) |  Medium | [Java](./January%202023/Gas_Station.java) | Jan |
+8 | 8/1/23 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | [Java](./January%202023/Max_Points_on_a_Line.java) | Jan |
+9 | 9/1/23 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [Java](./January%202023/Binary_Tree_Preorder_Traversal.java) | Jan |
+10 | 10/1/23 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Java](./January%202023/Same_Tree.java) | Jan |
+11 | 11/1/23 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | Medium | [Python](./January%202023/Minimum_Time_to_Collect_All_Apples_in_a_Tree.py) | Jan |
+12 | 12/1/23 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium | [Python](./January%202023/Number_of_Nodes_in_the_Sub_Tree_With_the_Same_Label.py) | Jan |
+13 | 13/1/23 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | Hard | [Java](./January%202023/Longest_Path_With_Different_Adjacent_Characters.java) | Jan |
+14 | 14/1/23 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Medium | [Java](./January%202023/Lexicographically_Smallest_Equivalent_String.java) | Jan |
+15 | 15/1/23 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | Hard | [Java](./January%202023/Number_of_Good_Paths.java) | Jan |
+16 | 16/1/23 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Java](./January%202023/Insert_Interval.java) | Jan |
+17 | 17/1/23 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | Medium | [Python](./January%202023/Flip_String_to_Monotone_Increasing.py) | Jan |
+18 | 18/1/23 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | Medium | [Python](./January%202023/Maximum_Sum_Circular_Subarray.py) | Jan |
+19 | 19/1/23 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | [Java](./January%202023/Subarray_Sums_Divisible_by_K.java) | Jan |
+20 | 20/1/23 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | Medium | [Java](./January%202023/Non_decreasing_Subsequences.java) | Jan |
 1 | 1/2/23 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | Easy | [Java](./February%202023/greatest_common_divisor.java) | Feb |
 2 | 2/2/23 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [Java](./February%202023/Verifying_an_Alien_Dictionary.java) | Feb |
 3 | 3/2/23 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | [Java](./February%202023/Zigzag_Conversion.java) | Feb |
