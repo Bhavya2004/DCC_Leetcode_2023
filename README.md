@@ -108,3 +108,4 @@
 101 | 11/4/23 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | Medium | [Python](./April%202023/Removing_Stars_From_a_String.py) | Apr |
 102 | 12/4/23 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Python](./April%202023/Simplify_Path.py) | Apr |
 103 | 13/4/23 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./April%202023/Validate_Stack_Sequences.py) | Apr |
+104 | 14/4/23 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [Python](./April%202023/Longest_Palindromic_Subsequence.py) | Apr |
