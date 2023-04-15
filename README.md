@@ -109,3 +109,4 @@
 102 | 12/4/23 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Python](./April%202023/Simplify_Path.py) | Apr |
 103 | 13/4/23 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./April%202023/Validate_Stack_Sequences.py) | Apr |
 104 | 14/4/23 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [Python](./April%202023/Longest_Palindromic_Subsequence.py) | Apr |
+105 | 15/4/23 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | [Python](./April%202023/Maximum_Value_of_K_Coins_From_Piles.py) | Apr |
