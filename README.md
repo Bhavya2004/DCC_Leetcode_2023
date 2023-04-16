@@ -110,3 +110,4 @@
 103 | 13/4/23 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Medium | [Python](./April%202023/Validate_Stack_Sequences.py) | Apr |
 104 | 14/4/23 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [Python](./April%202023/Longest_Palindromic_Subsequence.py) | Apr |
 105 | 15/4/23 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | [Python](./April%202023/Maximum_Value_of_K_Coins_From_Piles.py) | Apr |
+106 | 16/4/23 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.py) | Hard | [Python](./April%202023/) | Apr |
