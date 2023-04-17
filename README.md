@@ -111,3 +111,4 @@
 104 | 14/4/23 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [Python](./April%202023/Longest_Palindromic_Subsequence.py) | Apr |
 105 | 15/4/23 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | Hard | [Python](./April%202023/Maximum_Value_of_K_Coins_From_Piles.py) | Apr |
 106 | 16/4/23 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard | [Python](./April%202023/Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.py) | Apr |
+107 | 17/4/23 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [Python](./April%202023/Kids_With_the_Greatest_Number_of_Candies.py) | Apr |
