@@ -113,3 +113,4 @@
 106 | 16/4/23 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard | [Python](./April%202023/Number_of_Ways_to_Form_a_Target_String_Given_a_Dictionary.py) | Apr |
 107 | 17/4/23 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [Python](./April%202023/Kids_With_the_Greatest_Number_of_Candies.py) | Apr |
 108 | 18/4/23 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [Python](./April%202023/Merge_Strings_Alternately.py) | Apr |
+109 | 19/4/23 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | Medium | [Python](./April%202023/Longest_ZigZag_Path_in_a_Binary_Tree.py) | Apr | 
