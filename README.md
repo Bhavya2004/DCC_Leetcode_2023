@@ -118,3 +118,4 @@
 111 | 21/4/23 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | Hard | [Python](./April%202023/Profitable_Schemes.py) | Apr |
 112 | 22/4/23 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | [Python](./April%202023/Minimum_Insertion_Steps_to_Make_a_String_Palindrome.py) | Apr |
 113 | 23/4/23 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard | [Python](./April%202023/Restore_The_Array.py) | Apr |
+114 | 24/4/23 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [Python](./April%202023/Last_Stone_Weight.py) | Apr |
