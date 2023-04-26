@@ -120,3 +120,4 @@
 113 | 23/4/23 | [Restore The Array](https://leetcode.com/problems/restore-the-array/) | Hard | [Python](./April%202023/Restore_The_Array.py) | Apr |
 114 | 24/4/23 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy | [Python](./April%202023/Last_Stone_Weight.py) | Apr |
 115 | 25/4/23 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | [Python](./April%202023/Smallest_Number_in_Infinite_Set.py) | Apr |
+116 | 26/4/23 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [Python](./April%202023/Add_Digits.py) | Apr |
