@@ -122,3 +122,4 @@
 115 | 25/4/23 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) | Medium | [Python](./April%202023/Smallest_Number_in_Infinite_Set.py) | Apr |
 116 | 26/4/23 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [Python](./April%202023/Add_Digits.py) | Apr |
 117 | 27/4/23 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | Medium | [Python](./April%202023/Bulb_Switcher.py) | Apr |
+118 | 28/4/23 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | Hard | [Python](./April%202023/Similar_String_Groups.py) | Apr |
