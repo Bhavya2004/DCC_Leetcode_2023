@@ -126,3 +126,4 @@
 119 | 29/4/23 | [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | Hard | [Python](./April%202023/Checking_Existence_of_Edge_Length_Limited_Paths.py) | Apr |
 120 | 30/4/23 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | [Python](./April%202023/Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.py) | Apr |
 121 | 1/5/23 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | [Python](./May%202023/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py) | May |
+122 | 2/5/23 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | [Python](./May%202023/Sign_of_the_Product_of_an_Array.py) | May |
