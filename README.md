@@ -127,3 +127,4 @@
 120 | 30/4/23 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard | [Python](./April%202023/Remove_Max_Number_of_Edges_to_Keep_Graph_Fully_Traversable.py) | Apr |
 121 | 1/5/23 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | [Python](./May%202023/Average_Salary_Excluding_the_Minimum_and_Maximum_Salary.py) | May |
 122 | 2/5/23 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | Easy | [Python](./May%202023/Sign_of_the_Product_of_an_Array.py) | May |
+123 | 3/5/23 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | [Python](./May%202023/Find_the_Difference_of_Two_Arrays.py) | May |
