@@ -130,3 +130,4 @@
 123 | 3/5/23 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | Easy | [Python](./May%202023/Find_the_Difference_of_Two_Arrays.py) | May |
 124 | 4/5/23 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | Medium | [Python](./May%202023/Dota2_Senate.py) | May |
 125 | 5/5/23 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [Python](./May%202023/Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.py) | May |
+126 | 6/5/23 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium | [Python](./May%202023/Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition.py) | May |
