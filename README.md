@@ -137,3 +137,4 @@
 130 | 10/5/23 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Python](./May%202023/Spiral_Matrix_II.py) | May |
 131 | 11/5/23 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | Medium | [Python](./May%202023/Uncrossed_Lines.py) | May |
 132 | 12/5/23 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium | [Python](./May%202023/Solving_Questions_With_Brainpower.py) | May |
+133 | 13/5/23 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium | [Python](./May%202023/Count_Ways_To_Build_Good_Strings.py) | May |
