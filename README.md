@@ -139,3 +139,4 @@
 132 | 12/5/23 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | Medium | [Python](./May%202023/Solving_Questions_With_Brainpower.py) | May |
 133 | 13/5/23 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | Medium | [Python](./May%202023/Count_Ways_To_Build_Good_Strings.py) | May |
 134 | 14/5/23 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) | Hard | [Python](./May%202023/Maximize_Score_After_N_Operations.py) | May |
+135 | 15/5/23 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | [Python](./May%202023/Swapping_Nodes_in_a_Linked_List.py) | May |
