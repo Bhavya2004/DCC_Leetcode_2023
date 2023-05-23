@@ -147,3 +147,4 @@
 140 | 20/5/23 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | [Python](./May%202023/Evaluate_Division.py) | May |
 141 | 21/5/23 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | Medium | [Python](./May%202023/Shortest_Bridge.py) | May |
 142 | 22/5/23 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](./May%202023/Top_K_Frequent_Elements.py) | May |
+143 | 23/5/23 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Python](./May%202023/Kth_Largest_Element_in_a_Stream.py) | May |
