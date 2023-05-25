@@ -149,3 +149,4 @@
 142 | 22/5/23 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Python](./May%202023/Top_K_Frequent_Elements.py) | May |
 143 | 23/5/23 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | [Python](./May%202023/Kth_Largest_Element_in_a_Stream.py) | May |
 144 | 24/5/23 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | Medium | [Python](./May%202023/Maximum_Subsequence_Score.py) | May |
+145 | 25/5/23 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | Medium | [Python](./May%202023/New_21_Game.py) | May |
