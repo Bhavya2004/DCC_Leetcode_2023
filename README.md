@@ -153,3 +153,4 @@
 146 | 26/5/23 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | Medium | [Python](./May%202023/Stone_Game_II.py) | May |
 147 | 27/5/23 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | [Python](./May%202023/Stone_Game_III.py) | May |
 148 | 28/5/23 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | Hard | [Python](./May%202023/Minimum_Cost_to_Cut_a_Stick.py) | May |
+149 | 29/5/23 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | [Python](./May%202023/Design_Parking_System.py) | May |
