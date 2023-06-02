@@ -157,3 +157,4 @@
 150 | 30/5/23 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | Easy | [Python](./May%202023/Design_HashSet.py) | May |
 151 | 31/5/23 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | Medium | [Python](./May%202023/Design_Underground_System.py) | May |
 152 | 1/6/23 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | [Python](./June%202023/Shortest_Path_in_Binary_Matrix.py) | June |
+153 | 2/6/23 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | Medium | [Python](./June%202023/Detonate_the_Maximum_Bombs.py) | June |
