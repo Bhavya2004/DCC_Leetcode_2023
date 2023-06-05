@@ -160,3 +160,4 @@
 153 | 2/6/23 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | Medium | [Python](./June%202023/Detonate_the_Maximum_Bombs.py) | June |
 154 | 3/6/23 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | Medium | [Python](./June%202023/Time_Needed_to_Inform_All_Employees.py) | June |
 155 | 4/6/23 | [ Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Python](./June%202023/Number_of_Provinces.py) | June |
+156 | 5/6/23 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | [Python](./June%202023/Check_If_It_Is_a_Straight_Line.py) | June | 
