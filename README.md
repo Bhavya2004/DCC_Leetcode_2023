@@ -162,3 +162,4 @@
 155 | 4/6/23 | [ Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | [Python](./June%202023/Number_of_Provinces.py) | June |
 156 | 5/6/23 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | Easy | [Python](./June%202023/Check_If_It_Is_a_Straight_Line.py) | June | 
 157 | 6/6/23 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | Easy | [Python](./June%202023/Can_Make_Arithmetic_Progression_From_Sequence.py) | June |
+158 | 7/6/23 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [Python](./June%202023/Minimum_Flips_to_Make_a_OR_b_Equal_to_c.py) | June |
