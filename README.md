@@ -165,3 +165,4 @@
 158 | 7/6/23 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | Medium | [Python](./June%202023/Minimum_Flips_to_Make_a_OR_b_Equal_to_c.py) | June |
 159 | 8/6/23 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Easy | [Python](./June%202023/Count_Negative_Numbers_in_a_Sorted_Matrix.py) | June |
 160 | 9/6/23 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | [Python](./June%202023/Find_Smallest_Letter_Greater_Than_Target.py) | June |
+161 | 10/6/23 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium | [Python](./June%202023/Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.py) | June |
