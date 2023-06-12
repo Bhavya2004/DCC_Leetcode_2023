@@ -167,3 +167,4 @@
 160 | 9/6/23 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | [Python](./June%202023/Find_Smallest_Letter_Greater_Than_Target.py) | June |
 161 | 10/6/23 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Medium | [Python](./June%202023/Maximum_Value_at_a_Given_Index_in_a_Bounded_Array.py) | June |
 162 | 11/6/23 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | Medium | [Python](./June%202023/Snapshot_Array.py) | June |
+163 | 12/6/23 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | Easy | [Python](./June%202023/Summary_Ranges.py) | June |
