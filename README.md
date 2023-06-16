@@ -171,3 +171,4 @@
 164 | 13/6/23 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | Medium | [Python](./June%202023/Equal_Row_and_Column_Pairs.py) | June | 
 165 | 14/6/23 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | Easy | [Python](./June%202023/Minimum_Absolute_Difference_in_BST.py) | June |
 166 | 15/6/23 | [ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Python](./June%202023/Maximum_Level_Sum_of_a_Binary_Tree.py) | June |
+167 | 16/6/23 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | [Python](./June%202023/Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.py) | June |
