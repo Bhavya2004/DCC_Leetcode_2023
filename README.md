@@ -173,3 +173,4 @@
 166 | 15/6/23 | [ Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | Medium | [Python](./June%202023/Maximum_Level_Sum_of_a_Binary_Tree.py) | June |
 167 | 16/6/23 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | [Python](./June%202023/Number_of_Ways_to_Reorder_Array_to_Get_Same_BST.py) | June |
 168 | 17/6/23 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | Hard | [Python](./June%202023/Make_Array_Strictly_Increasing.py) | June |
+169 | 18/6/23 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | Hard | [Python](./June%202023/Number_of_Increasing_Paths_in_a_Grid.py) | June |
