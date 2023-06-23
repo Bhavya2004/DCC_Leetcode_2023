@@ -178,4 +178,4 @@
 171 | 20/6/23 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | Medium | [Python](./June%202023/K_Radius_Subarray_Averages.py) | June |
 172 | 21/6/23 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | Hard | [Python](./June%202023/Minimum_Cost_to_Make_Array_Equal.py) | June |
 173 | 22/6/23 | [ Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | [Python](./June%202023/Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py) | June |
-174 | 23/6/23 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | Medium | [](./June%202023/Longest_Arithmetic_Subsequence.py) | June |
+174 | 23/6/23 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | Medium | [Python](./June%202023/Longest_Arithmetic_Subsequence.py) | June |
