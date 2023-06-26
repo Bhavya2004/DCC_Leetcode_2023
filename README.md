@@ -181,3 +181,4 @@
 174 | 23/6/23 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | Medium | [Python](./June%202023/Longest_Arithmetic_Subsequence.py) | June |
 175 | 24/6/23 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard/) | Hard | [Python](./June%202023/Tallest_Billboard.py) | June |
 176 | 25/6/23 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes/) | Hard | [Python](./June%202023/Count_All_Possible_Routes.py) | June |
+177 | 26/6/23 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | Medium | [Python](./June%202023/Total_Cost_to_Hire_K_Workers.py) | June |
