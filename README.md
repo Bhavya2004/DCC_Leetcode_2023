@@ -190,3 +190,4 @@
 183 | 2/7/23 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | Hard | [Python](./July%202023/Maximum_Number_of_Achievable_Transfer_Requests.py) | July |
 184 | 3/7/23 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | Easy | [Python](./July%202023/Buddy_Strings.py) | July |
 185 | 4/7/23 | [ Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Python](./July%202023/Single_Number_II.py) | July |
+186 | 5/7/23 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Easy | [Python](./July%202023/Longest_Subarray_of_1_After_Deleting_One_Element.py) | July |
