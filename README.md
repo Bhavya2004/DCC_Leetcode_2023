@@ -192,3 +192,4 @@
 185 | 4/7/23 | [ Single Number II](https://leetcode.com/problems/single-number-ii/) | Medium | [Python](./July%202023/Single_Number_II.py) | July |
 186 | 5/7/23 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Easy | [Python](./July%202023/Longest_Subarray_of_1_After_Deleting_One_Element.py) | July |
 187 | 6/7/23 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Python](./July%202023/Minimum_Size_Subarray_Sum.py) | July |
+188 | 7/7/23 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium | [Python](./July%202023/Maximize_the_Confusion_of_an_Exam.py) | July |
