@@ -194,4 +194,4 @@
 187 | 6/7/23 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Python](./July%202023/Minimum_Size_Subarray_Sum.py) | July |
 188 | 7/7/23 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | Medium | [Python](./July%202023/Maximize_the_Confusion_of_an_Exam.py) | July |
 189 | 8/7/23 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | Hard | [Python](./July%202023/Put_Marbles_in_Bags.py) | July |
-190 | 9/7/23 [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | Hard | [Python](./July%202023/Substring_With_Largest_Variance.py) | July |
+190 | 9/7/23 | [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | Hard | [Python](./July%202023/Substring_With_Largest_Variance.py) | July |
