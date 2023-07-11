@@ -196,3 +196,4 @@
 189 | 8/7/23 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/) | Hard | [Python](./July%202023/Put_Marbles_in_Bags.py) | July |
 190 | 9/7/23 | [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/) | Hard | [Python](./July%202023/Substring_With_Largest_Variance.py) | July |
 191 | 10/7/23 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Python](./July%202023/Minimum_Depth_of_Binary_Tree.py) | July |
+192 | 11/7/23 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | [Python](./July%202023/All_Nodes_Distance_K_in_Binary_Tree.py) | July | 
