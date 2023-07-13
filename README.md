@@ -198,3 +198,4 @@
 191 | 10/7/23 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [Python](./July%202023/Minimum_Depth_of_Binary_Tree.py) | July |
 192 | 11/7/23 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | [Python](./July%202023/All_Nodes_Distance_K_in_Binary_Tree.py) | July | 
 193 | 12/7/23 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | [Python](./July%202023/Find_Eventual_Safe_States.py) | July |
+194 | 13/7/23 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Python](./July%202023/Course_Schedule.py) | July |
