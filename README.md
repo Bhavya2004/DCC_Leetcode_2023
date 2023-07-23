@@ -208,3 +208,4 @@
 201 | 20/7/23 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | Medium | [Python](./July%202023/Asteroid_Collision.py) | July |
 202 | 21/7/23 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | [Python](./July%202023/Number_of_Longest_Increasing_Subsequence.py) | July |
 203 | 22/7/23 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Medium | [Python](./July%202023/Knight_Probability_in_Chessboard.py) | July |
+204 | 23/7/23 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | Medium | [Python](./July%202023/All_Possible_Full_Binary_Trees.py) | July |
