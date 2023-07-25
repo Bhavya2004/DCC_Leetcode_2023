@@ -210,3 +210,4 @@
 203 | 22/7/23 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | Medium | [Python](./July%202023/Knight_Probability_in_Chessboard.py) | July |
 204 | 23/7/23 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | Medium | [Python](./July%202023/All_Possible_Full_Binary_Trees.py) | July |
 205 | 24/7/23 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](./July%202023/powx_n.py) | July |
+206 | 25/7/23 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | Medium | [Python](./July%202023/Peak_Index_in_a_Mountain_Array.py) | July |
