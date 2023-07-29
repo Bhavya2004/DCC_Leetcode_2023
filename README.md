@@ -214,3 +214,4 @@
 207 | 26/7/23 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | Medium | [Python](./July%202023/Minimum_Speed_to_Arrive_on_Time.py) | July |
 208 | 27/7/23 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | Hard | [Python](./July%202023/Maximum_Running_Time_of_N_Computers.py) | July |
 209 | 28/7/23 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | [Python](./July%202023/Predict_the_Winner.py) | July |
+210 | 29/7/23 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | Medium | [Python](./July%202023/Soup_Servings.py) | July |
