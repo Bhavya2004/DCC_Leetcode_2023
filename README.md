@@ -216,3 +216,4 @@
 209 | 28/7/23 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | [Python](./July%202023/Predict_the_Winner.py) | July |
 210 | 29/7/23 | [Soup Servings](https://leetcode.com/problems/soup-servings/) | Medium | [Python](./July%202023/Soup_Servings.py) | July |
 211 | 30/7/23 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | Hard | [Python](./July%202023/Strange_Printer.py) | July |
+212 | 31/7/23 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | [Python](./July%202023/Minimum_ASCII_Delete_Sum_for_Two_Strings.py) | July |
