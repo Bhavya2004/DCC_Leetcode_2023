@@ -218,3 +218,4 @@
 211 | 30/7/23 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | Hard | [Python](./July%202023/Strange_Printer.py) | July |
 212 | 31/7/23 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | Medium | [Python](./July%202023/Minimum_ASCII_Delete_Sum_for_Two_Strings.py) | July |
 213 | 1/8/23 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [Python](./August%202023/Combinations.py) | August |
+214 | 2/8/23 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Python](./August%202023/Permutations.py) | August |
