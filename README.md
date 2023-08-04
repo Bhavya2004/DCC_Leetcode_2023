@@ -220,3 +220,4 @@
 213 | 1/8/23 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [Python](./August%202023/Combinations.py) | August |
 214 | 2/8/23 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Python](./August%202023/Permutations.py) | August |
 215 | 3/8/23 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Python](./August%202023/Letter_Combinations_of_a_Phone_Number.py) | August |
+216 | 4/8/23 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | [Python](./August%202023/Word_Break.py) | August |
