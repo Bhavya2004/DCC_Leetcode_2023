@@ -226,3 +226,4 @@
 219 | 7/8/23 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Python](./August%202023/Search_a_2D_Matrix.py) | August |
 220 | 8/8/23 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Python](./August%202023/Search_in_Rotated_Sorted_Array.py) | August |
 221 | 9/8/23 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | Medium | [Python](./August%202023/Minimize_the_Maximum_Difference_of_Pairs.py) | August |
+222 | 10/8/23 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | [Python](./August%202023/Search_in_Rotated_Sorted_Array_II.py) | August |
