@@ -230,3 +230,4 @@
 223 | 11/8/23 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | Medium | [Python](./August%202023/Coin_Change_II.py) | August |
 224 | 12/8/23 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [Java](./August%202023/Unique_Paths_II.java) | August |
 225 | 13/8/23 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | Medium | [Java](./August%202023/Check_if_There_is_a_Valid_Partition_For_The_Array.java) | August |
+226 | 14/8/23 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [Java](./August%202023/Kth_Largest_Element_in_an_Array.java) | August |
