@@ -234,3 +234,4 @@
 227 | 15/8/23 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [Java](./August%202023/Partition_List.java) | August |
 228 | 16/8/23 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Java](./August%202023/Sliding_Window_Maximum.java) | August |
 229 | 17/8/23 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Java](./August%202023/01_Matrix.java) | August |
+230 | 18/8/23 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | Medium | [Java](./August%202023/Maximal_Network_Rank.java) | August |
