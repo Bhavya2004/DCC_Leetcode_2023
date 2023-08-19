@@ -235,3 +235,4 @@
 228 | 16/8/23 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Java](./August%202023/Sliding_Window_Maximum.java) | August |
 229 | 17/8/23 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Java](./August%202023/01_Matrix.java) | August |
 230 | 18/8/23 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | Medium | [Java](./August%202023/Maximal_Network_Rank.java) | August |
+231 | 19/8/23 | [ Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) | Hard | [Java](./August%202023/Find_Critical_and_Pseudo_Critical_Edges_in_Minimum_Spanning_Tree.java) | August |
