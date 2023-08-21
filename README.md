@@ -237,3 +237,4 @@
 230 | 18/8/23 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | Medium | [Java](./August%202023/Maximal_Network_Rank.java) | August |
 231 | 19/8/23 | [ Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) | Hard | [Java](./August%202023/Find_Critical_and_Pseudo_Critical_Edges_in_Minimum_Spanning_Tree.java) | August |
 232 | 20/8/23 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | Hard | [Java](./August%202023/Sort_Items_by_Groups_Respecting_Dependencies.java) | August |
+233 | 21/8/23 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | Easy | [Java](./August%202023/Repeated_Substring_Pattern.java) | August |
