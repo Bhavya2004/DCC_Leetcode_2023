@@ -240,3 +240,4 @@
 233 | 21/8/23 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | Easy | [Java](./August%202023/Repeated_Substring_Pattern.java) | August |
 234 | 22/8/23 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | Easy | [Java](./August%202023/Excel_Sheet_Column_Title.java) | August |
 235 | 23/8/23 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium | [Java](./August%202023/Reorganize_String.java) | August |
+236 | 24/8/23 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Java](./August%202023/Text_Justification.java) | August |
