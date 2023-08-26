@@ -242,3 +242,4 @@
 235 | 23/8/23 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium | [Java](./August%202023/Reorganize_String.java) | August |
 236 | 24/8/23 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Java](./August%202023/Text_Justification.java) | August |
 237 | 25/8/23 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | [Java](./August%202023/Interleaving_String.java) | August |
+238 | 26/8/23 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Medium | [Java](./August%202023/Maximum_Length_of_Pair_Chain.java) | August |
