@@ -247,3 +247,4 @@
 240 | 28/8/23 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | Easy | [Java](./August%202023/Implement_Stack_using_Queues.java) | August |
 241 | 29/8/23 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium | [Java](./August%202023/Minimum_Penalty_for_a_Shop.java) | August |
 242 | 30/8/23 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | Hard | [Java](./August%202023/Minimum_Replacements_to_Sort_the_Array.java) | August |
+243 | 31/8/23 | [Minimum Number of Taps to Open to Water a Garden]() | Hard | [Java](./August%202023/Minimum_Number_of_Taps_to_Open_to_Water_a_Garden.java) | August |
