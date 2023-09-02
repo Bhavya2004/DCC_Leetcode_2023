@@ -248,4 +248,5 @@
 241 | 29/8/23 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | Medium | [Java](./August%202023/Minimum_Penalty_for_a_Shop.java) | August |
 242 | 30/8/23 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | Hard | [Java](./August%202023/Minimum_Replacements_to_Sort_the_Array.java) | August |
 243 | 31/8/23 | [Minimum Number of Taps to Open to Water a Garden]() | Hard | [Java](./August%202023/Minimum_Number_of_Taps_to_Open_to_Water_a_Garden.java) | August |
-244 | 1/9/23 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Java](./September%202023/Counting_Bits.java) | September |
+244 | 1/9/23 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Java](./September%202023/Counting_Bits.java) | Sep |
+245 | 2/9/23 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | [Java](./September%202023/Extra_Characters_in_a_String.java) | Sep |
