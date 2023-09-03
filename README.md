@@ -250,3 +250,4 @@
 243 | 31/8/23 | [Minimum Number of Taps to Open to Water a Garden]() | Hard | [Java](./August%202023/Minimum_Number_of_Taps_to_Open_to_Water_a_Garden.java) | August |
 244 | 1/9/23 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | [Java](./September%202023/Counting_Bits.java) | Sep |
 245 | 2/9/23 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | [Java](./September%202023/Extra_Characters_in_a_String.java) | Sep |
+246 | 3/9/23 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Java](./September%202023/Unique_Paths.java) | Sep |
