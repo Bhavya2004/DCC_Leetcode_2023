@@ -252,3 +252,4 @@
 245 | 2/9/23 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/) | Medium | [Java](./September%202023/Extra_Characters_in_a_String.java) | Sep |
 246 | 3/9/23 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [Java](./September%202023/Unique_Paths.java) | Sep |
 247 | 4/9/23 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Java](./September%202023/Linked_List_Cycle.java) | Sep |
+248 | 5/9/23 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Java](./September%202023/Copy_List_with_Random_Pointer.java) | Sep |
