@@ -255,3 +255,4 @@
 248 | 5/9/23 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Java](./September%202023/Copy_List_with_Random_Pointer.java) | Sep |
 249 | 6/9/23 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [Java](./September%202023/Split_Linked_List_in_Parts.java) | Sep |
 250 | 7/9/23 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Java](./September%202023/Reverse_Linked_List_II.java) | Sep |
+251 | 8/9/23 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Java](./September%202023/Pascals_Triangle.java) | Sep |
