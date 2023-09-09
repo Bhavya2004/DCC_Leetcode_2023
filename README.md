@@ -256,3 +256,4 @@
 249 | 6/9/23 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | Medium | [Java](./September%202023/Split_Linked_List_in_Parts.java) | Sep |
 250 | 7/9/23 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Java](./September%202023/Reverse_Linked_List_II.java) | Sep |
 251 | 8/9/23 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Java](./September%202023/Pascals_Triangle.java) | Sep |
+252 | 9/9/23 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Java](./September%202023/Combination_Sum_IV.java) | Sep |
