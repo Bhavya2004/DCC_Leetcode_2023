@@ -257,3 +257,4 @@
 250 | 7/9/23 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | [Java](./September%202023/Reverse_Linked_List_II.java) | Sep |
 251 | 8/9/23 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [Java](./September%202023/Pascals_Triangle.java) | Sep |
 252 | 9/9/23 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Java](./September%202023/Combination_Sum_IV.java) | Sep |
+253 | 10/9/23 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard | [Java](./September%202023/Count_All_Valid_Pickup_and_Delivery_Options.java) | Sep |
