@@ -259,3 +259,4 @@
 252 | 9/9/23 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | [Java](./September%202023/Combination_Sum_IV.java) | Sep |
 253 | 10/9/23 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | Hard | [Java](./September%202023/Count_All_Valid_Pickup_and_Delivery_Options.java) | Sep |
 254 | 11/9/23 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | Medium | [Java](./September%202023/Group_the_People_Given_the_Group_Size_They_Belong_To.java) | Sep |
+255 | 12/9/23 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | Medium | [Java](./September%202023/Minimum_Deletions_to_Make_Character_Frequencies_Unique.java) | Sep |
