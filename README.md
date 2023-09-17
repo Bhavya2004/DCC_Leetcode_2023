@@ -264,3 +264,4 @@
 257 | 14/9/23 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/) | Hard | [Java](./September%202023/Reconstruct_Itinerary.java) | Sep |
 258 | 15/9/23 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Medium | [Java](./September%202023/Min_Cost_to_Connect_All_Points.java) | Sep |
 259 | 16/9/23 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Java](./September%202023/Path_With_Minimum_Effort.java) | Sep |
+260 | 17/9/23 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Hard | [Java](./September%202023/Shortest_Path_Visiting_All_Nodes.java) | Sep |
