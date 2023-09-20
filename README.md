@@ -267,3 +267,4 @@
 260 | 17/9/23 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Hard | [Java](./September%202023/Shortest_Path_Visiting_All_Nodes.java) | Sep |
 261 | 18/7/23 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | [Java](./September%202023/The_K_Weakest_Rows_in_a_Matrix.java) | Sep |
 262 | 19/7/23 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | [Java](./September%202023/Find_the_Duplicate_Number.java) | Sep |
+263 | 20/7/23 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [Java](./September%202023/Minimum_Operations_to_Reduce_X_to_Zero.java) | Sep |
