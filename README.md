@@ -269,3 +269,4 @@
 262 | 19/7/23 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | [Java](./September%202023/Find_the_Duplicate_Number.java) | Sep |
 263 | 20/7/23 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [Java](./September%202023/Minimum_Operations_to_Reduce_X_to_Zero.java) | Sep |
 264 | 21/7/23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Java](./September%202023/Median_of_Two_Sorted_Arrays.java) | Sep |
+265 | 22/7/23 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Java](./September%202023/Is_Subsequence.java) | Sep |
