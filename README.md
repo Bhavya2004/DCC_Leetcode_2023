@@ -271,3 +271,4 @@
 264 | 21/7/23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Java](./September%202023/Median_of_Two_Sorted_Arrays.java) | Sep |
 265 | 22/7/23 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Java](./September%202023/Is_Subsequence.java) | Sep |
 266 | 23/7/23 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [Java](./September%202023/Longest_String_Chain.java) | Sep |
+267 | 24/7/23 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | [Java](./September%202023/Champagne_Tower.java) | Sep |
