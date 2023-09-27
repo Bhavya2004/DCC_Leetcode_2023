@@ -274,3 +274,4 @@
 267 | 24/7/23 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | [Java](./September%202023/Champagne_Tower.java) | Sep |
 268 | 25/7/23 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Java](./September%202023/Find_the_Difference.java) | Sep |
 269 | 26/7/23 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/d) | Medium | [Java](./September%202023/Remove_Duplicate_Letters.java) | Sep |
+270 | 27/7/23 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | Medium | [Java](./September%202023/Decoded_String_at_Index.java) | Sep |
