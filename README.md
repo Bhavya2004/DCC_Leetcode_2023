@@ -277,3 +277,4 @@
 270 | 27/7/23 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | Medium | [Java](./September%202023/Decoded_String_at_Index.java) | Sep |
 271 | 28/7/23 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Java](./September%202023/Sort_Array_By_Parity.java) | Sep |
 272 | 29/7/23 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [Java](./September%202023/Monotonic_Array.java) | Sep |
+273 | 30/7/23 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | [Java](./September%202023/132_Pattern.java) | Sep |
