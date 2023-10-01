@@ -278,3 +278,4 @@
 271 | 28/7/23 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Java](./September%202023/Sort_Array_By_Parity.java) | Sep |
 272 | 29/7/23 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [Java](./September%202023/Monotonic_Array.java) | Sep |
 273 | 30/7/23 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | [Java](./September%202023/132_Pattern.java) | Sep |
+274 | 1/10/23 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Java](./October%202023/Reverse_Words_in_a_String_III.java) | Oct | 
