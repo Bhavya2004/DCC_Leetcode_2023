@@ -279,3 +279,4 @@
 272 | 29/7/23 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [Java](./September%202023/Monotonic_Array.java) | Sep |
 273 | 30/7/23 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | [Java](./September%202023/132_Pattern.java) | Sep |
 274 | 1/10/23 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Java](./October%202023/Reverse_Words_in_a_String_III.java) | Oct | 
+275 | 2/10/23 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | [Java](./October%202023/Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.java) | Oct |
