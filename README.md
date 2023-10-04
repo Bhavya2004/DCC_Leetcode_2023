@@ -281,3 +281,4 @@
 274 | 1/10/23 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Java](./October%202023/Reverse_Words_in_a_String_III.java) | Oct | 
 275 | 2/10/23 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | [Java](./October%202023/Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.java) | Oct |
 276 | 3/10/23 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [Java](./October%202023/Number_of_Good_Pairs.java) | Oct |
+277 | 4/10/23 | [Design HashMap](https://leetcode.com/problems/design-hashmap/description/) | Easy | [Java](./October%202023/Design_HashMap.java) | Oct |
