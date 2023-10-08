@@ -285,3 +285,4 @@
 278 | 5/10/23 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | Medium | [Java](./October%202023/Majority_Element_II.java) | Oct |
 279 | 6/10/23 | [Integer Break](https://leetcode.com/problems/integer-break/) | Medium | [Java](./October%202023/Integer_Break.java) | Oct |
 280 | 7/10/23 | [Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard | [Java](./October%202023/Build_Array_Where_You_Can_Find_The_Maximum_Exactly_K_Comparisons.java) | Oct |
+281 | 8/10/23 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) | Hard | [](./October%202023/Max_Dot_Product_of_Two_Subsequences.java) | Oct |
