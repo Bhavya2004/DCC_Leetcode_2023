@@ -291,3 +291,4 @@
 284 | 11/10/23 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/description/) | Hard | [Java](./October%202023/Number_of_Flowers_in_Full_Bloom.java) | Oct |
 285 | 12/10/23 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | Hard | [Java](./October%202023/Find_in_Mountain_Array.java) | Oct | 
 286 | 13/10/23 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [Java](./October%202023/Min_Cost_Climbing_Stairs.java) | Oct |
+287 | 14/10/23 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | Hard | [Java](./October%202023/Painting_the_Walls.java) | Oct |
