@@ -293,3 +293,4 @@
 286 | 13/10/23 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | [Java](./October%202023/Min_Cost_Climbing_Stairs.java) | Oct |
 287 | 14/10/23 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/) | Hard | [Java](./October%202023/Painting_the_Walls.java) | Oct |
 288 | 15/10/23 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | [Java](./October%202023/Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.java) | Oct |
+289 | 16/10/23 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [Java](./October%202023/Pascal's_Triangle_II.java) | Oct |
