@@ -295,3 +295,4 @@
 288 | 15/10/23 | [Number of Ways to Stay in the Same Place After Some Steps](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | Hard | [Java](./October%202023/Number_of_Ways_to_Stay_in_the_Same_Place_After_Some_Steps.java) | Oct |
 289 | 16/10/23 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [Java](./October%202023/Pascal's_Triangle_II.java) | Oct |
 290 | 17/10/23 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/) | Medium | [Java](./October%202023/Validate_Binary_Tree_Nodes.java) | Oct |
+291 | 18/10/23 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | Hard | [Java](./October%202023/Parallel_Courses_III.java) | Oct |
