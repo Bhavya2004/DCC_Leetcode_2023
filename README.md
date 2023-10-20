@@ -297,3 +297,4 @@
 290 | 17/10/23 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/description/) | Medium | [Java](./October%202023/Validate_Binary_Tree_Nodes.java) | Oct |
 291 | 18/10/23 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/) | Hard | [Java](./October%202023/Parallel_Courses_III.java) | Oct |
 292 | 19/10/23 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [Java](./October%202023/Backspace_String_Compare.java) | Oct |
+293 | 20/10/23 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | [Java](./October%202023/Flatten_Nested_List_Iterator.java) | Oct |
