@@ -299,3 +299,4 @@
 292 | 19/10/23 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | [Java](./October%202023/Backspace_String_Compare.java) | Oct |
 293 | 20/10/23 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | Medium | [Java](./October%202023/Flatten_Nested_List_Iterator.java) | Oct |
 294 | 21/10/23 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | Hard | [Java](./October%202023/Constrained_Subsequence_Sum.java) | Oct |
+295 | 22/10/23 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Hard | [Java](./October%202023/Maximum_Score_of_a_Good_Subarray.java) | Oct |
