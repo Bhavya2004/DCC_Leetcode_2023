@@ -301,3 +301,4 @@
 294 | 21/10/23 | [Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/) | Hard | [Java](./October%202023/Constrained_Subsequence_Sum.java) | Oct |
 295 | 22/10/23 | [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | Hard | [Java](./October%202023/Maximum_Score_of_a_Good_Subarray.java) | Oct |
 296 | 23/10/23 | [Power of Four](https://leetcode.com/problems/power-of-four/) | Easy | [Java](./October%202023/Power_of_Four.java) | Oct |
+297 | 24/10/23 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | [Java](./October%202023/Find_Largest_Value_in_Each_Tree_Row.java) | Oct |
