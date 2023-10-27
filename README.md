@@ -304,3 +304,4 @@
 297 | 24/10/23 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | Medium | [Java](./October%202023/Find_Largest_Value_in_Each_Tree_Row.java) | Oct |
 298 | 25/10/23 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Medium | [Java](./October%202023/Kth_Symbol_in_Grammar.java) | Oct |
 299 | 26/10/23 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | Medium | [Java](./October%202023/Binary_Trees_With_Factors.java) | Oct |
+300 | 27/10/23 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Medium | [Java](./October%202023/Longest_Palindromic_Substring.java) | Oct |
