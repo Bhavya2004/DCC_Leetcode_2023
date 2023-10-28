@@ -305,3 +305,4 @@
 298 | 25/10/23 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Medium | [Java](./October%202023/Kth_Symbol_in_Grammar.java) | Oct |
 299 | 26/10/23 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/) | Medium | [Java](./October%202023/Binary_Trees_With_Factors.java) | Oct |
 300 | 27/10/23 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Medium | [Java](./October%202023/Longest_Palindromic_Substring.java) | Oct |
+301 | 28/10/23 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/) | Hard | [Java](./October%202023/Count_Vowels_Permutation.java) | Oct |
