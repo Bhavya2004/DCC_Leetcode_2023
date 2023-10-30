@@ -307,3 +307,4 @@
 300 | 27/10/23 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | Medium | [Java](./October%202023/Longest_Palindromic_Substring.java) | Oct |
 301 | 28/10/23 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/description/) | Hard | [Java](./October%202023/Count_Vowels_Permutation.java) | Oct |
 302 | 29/10/23 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) | Hard | [Java](./October%202023/Poor_Pigs.java) | Oct |
+303 | 30/10/23 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Easy | [Java](./October%202023/Sort_Integers_by_The_Number_of_1_Bits.java) | Oct |
