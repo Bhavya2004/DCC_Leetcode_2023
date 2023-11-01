@@ -309,3 +309,4 @@
 302 | 29/10/23 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/description/) | Hard | [Java](./October%202023/Poor_Pigs.java) | Oct |
 303 | 30/10/23 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Easy | [Java](./October%202023/Sort_Integers_by_The_Number_of_1_Bits.java) | Oct |
 304 | 31/10/23 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | Medium | [Java](./October%202023/Find_The_Original_Array_of_Prefix_Xor.java) | Oct |
+305 | 1/11/23 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/description/) | Easy | [Java](./November%202023/Find_Mode_in_Binary_Search_Tree.java) | Nov |
