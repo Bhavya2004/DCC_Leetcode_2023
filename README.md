@@ -313,3 +313,4 @@
 306 | 2/11/23 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | [Java](./November%202023/Count_Nodes_Equal_to_Average_of_Subtree.java) | Nov |
 307 | 3/11/23 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | Medium | [Java](./November%202023/Build_an_Array_With_Stack_Operations.java) | Nov |
 308 | 4/11/23 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium | [Java](./November%202023/Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.java) | Nov |
+309 | 5//11/23 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Medium | [Java](./November%202023/Find_the_Winner_of_an_Array_Game.java) | Nov |
