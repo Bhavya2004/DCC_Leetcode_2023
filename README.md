@@ -314,3 +314,4 @@
 307 | 3/11/23 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) | Medium | [Java](./November%202023/Build_an_Array_With_Stack_Operations.java) | Nov |
 308 | 4/11/23 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Medium | [Java](./November%202023/Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.java) | Nov |
 309 | 5//11/23 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Medium | [Java](./November%202023/Find_the_Winner_of_an_Array_Game.java) | Nov |
+310 | 6/11/23 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | Medium | [Java](./November%202023/Seat_Reservation_Manager.java) | Nov |
