@@ -316,3 +316,4 @@
 309 | 5//11/23 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | Medium | [Java](./November%202023/Find_the_Winner_of_an_Array_Game.java) | Nov |
 310 | 6/11/23 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | Medium | [Java](./November%202023/Seat_Reservation_Manager.java) | Nov |
 311 | 7/11/23 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Medium | [Java](./November%202023/Eliminate_Maximum_Number_of_Monsters.java) | Nov |
+312 | 8/11/23 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Medium | [Java](./November%202023/Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.java) | Nov |
