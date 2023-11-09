@@ -317,3 +317,4 @@
 310 | 6/11/23 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | Medium | [Java](./November%202023/Seat_Reservation_Manager.java) | Nov |
 311 | 7/11/23 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | Medium | [Java](./November%202023/Eliminate_Maximum_Number_of_Monsters.java) | Nov |
 312 | 8/11/23 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | Medium | [Java](./November%202023/Determine_if_a_Cell_Is_Reachable_at_a_Given_Time.java) | Nov |
+313 | 9/11/23 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Medium | [Java](./November%202023/Count_Number_of_Homogenous_Substrings.java) | Nov |
