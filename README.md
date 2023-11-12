@@ -320,3 +320,4 @@
 313 | 9/11/23 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | Medium | [Java](./November%202023/Count_Number_of_Homogenous_Substrings.java) | Nov |
 314 | 10/11/23 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Medium | [Java](./November%202023/Restore_the_Array_From_Adjacent_Pairs.java) | Nov |
 315 | 11/11/23 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | [Java](./November%202023/Design_Graph_With_Shortest_Path_Calculator.java) | Nov |
+316 | 12/11/23 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard | [Java](./November%202023/Bus_Routes.java) | Nov |
