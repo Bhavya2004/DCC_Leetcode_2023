@@ -321,3 +321,4 @@
 314 | 10/11/23 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | Medium | [Java](./November%202023/Restore_the_Array_From_Adjacent_Pairs.java) | Nov |
 315 | 11/11/23 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | [Java](./November%202023/Design_Graph_With_Shortest_Path_Calculator.java) | Nov |
 316 | 12/11/23 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard | [Java](./November%202023/Bus_Routes.java) | Nov |
+317 | 13/11/23 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | [Java](./November%202023/Sort_Vowels_in_a_String.java) | Nov |
