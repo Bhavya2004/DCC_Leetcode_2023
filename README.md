@@ -322,3 +322,4 @@
 315 | 11/11/23 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | Hard | [Java](./November%202023/Design_Graph_With_Shortest_Path_Calculator.java) | Nov |
 316 | 12/11/23 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard | [Java](./November%202023/Bus_Routes.java) | Nov |
 317 | 13/11/23 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | [Java](./November%202023/Sort_Vowels_in_a_String.java) | Nov |
+318 | 14/11/23 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | Medium | [Java](./November%202023/Unique_Length_3_Palindromic_Subsequences.java) | Nov |
