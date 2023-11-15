@@ -323,4 +323,4 @@
 316 | 12/11/23 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | Hard | [Java](./November%202023/Bus_Routes.java) | Nov |
 317 | 13/11/23 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium | [Java](./November%202023/Sort_Vowels_in_a_String.java) | Nov |
 318 | 14/11/23 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | Medium | [Java](./November%202023/Unique_Length_3_Palindromic_Subsequences.java) | Nov |
-319 | 15/11/23 | [ Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Medium | [Java]( Maximum_Element_After_Decreasing_and_Rearranging.java) | Nov |
+319 | 15/11/23 | [ Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Medium | [Java](./November%202023/Maximum_Element_After_Decreasing_and_Rearranging.java) | Nov |
