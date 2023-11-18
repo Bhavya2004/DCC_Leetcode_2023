@@ -326,3 +326,4 @@
 319 | 15/11/23 | [ Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Medium | [Java](./November%202023/Maximum_Element_After_Decreasing_and_Rearranging.java) | Nov |
 320 | 16/11/23 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | Medium | [Java](./November%202023/Find_Unique_Binary_String.java) | Nov |
 321 | 17/11/23 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | [Java](./November%202023/Minimize_Maximum_Pair_Sum_in_Array.java) | Nov |
+322 | 18/11/23 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | [Java](./November%202023/Frequency_of_the_Most_Frequent_Element.java) | Nov |
