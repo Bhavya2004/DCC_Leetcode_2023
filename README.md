@@ -328,3 +328,4 @@
 321 | 17/11/23 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | Medium | [Java](./November%202023/Minimize_Maximum_Pair_Sum_in_Array.java) | Nov |
 322 | 18/11/23 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | [Java](./November%202023/Frequency_of_the_Most_Frequent_Element.java) | Nov |
 323 | 19/11/23 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Medium | [Java](./November%202023/Reduction_Operations_to_Make_the_Array_Elements_Equal.java) | Nov |
+324 | 20/11/23 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Medium | [Java](./November%202023/Minimum_Amount_of_Time_to_Collect_Garbage.java) | Nov |
