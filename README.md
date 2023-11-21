@@ -329,3 +329,4 @@
 322 | 18/11/23 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | [Java](./November%202023/Frequency_of_the_Most_Frequent_Element.java) | Nov |
 323 | 19/11/23 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | Medium | [Java](./November%202023/Reduction_Operations_to_Make_the_Array_Elements_Equal.java) | Nov |
 324 | 20/11/23 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Medium | [Java](./November%202023/Minimum_Amount_of_Time_to_Collect_Garbage.java) | Nov |
+325 | 21/11/23 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium | [Java](./November%202023/Count_Nice_Pairs_in_an_Array.java) | Nov |
