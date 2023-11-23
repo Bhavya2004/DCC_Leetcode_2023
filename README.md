@@ -331,3 +331,4 @@
 324 | 20/11/23 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | Medium | [Java](./November%202023/Minimum_Amount_of_Time_to_Collect_Garbage.java) | Nov |
 325 | 21/11/23 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium | [Java](./November%202023/Count_Nice_Pairs_in_an_Array.java) | Nov |
 326 | 22/11/23 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium | [Java](./November%202023/Diagonal_Traverse_II.java) | Nov |
+327 | 23/11/23 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) | Medium | [Java](./November%202023/Arithmetic_Subarrays.java) | Nov |
