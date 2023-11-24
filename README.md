@@ -332,3 +332,4 @@
 325 | 21/11/23 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | Medium | [Java](./November%202023/Count_Nice_Pairs_in_an_Array.java) | Nov |
 326 | 22/11/23 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium | [Java](./November%202023/Diagonal_Traverse_II.java) | Nov |
 327 | 23/11/23 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) | Medium | [Java](./November%202023/Arithmetic_Subarrays.java) | Nov |
+328 | 24/11/23 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | [Java](./November%202023/Maximum_Number_of_Coins_You_Can_Get.java) | Nov |
