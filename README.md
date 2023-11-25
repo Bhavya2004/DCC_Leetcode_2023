@@ -333,3 +333,4 @@
 326 | 22/11/23 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | Medium | [Java](./November%202023/Diagonal_Traverse_II.java) | Nov |
 327 | 23/11/23 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/) | Medium | [Java](./November%202023/Arithmetic_Subarrays.java) | Nov |
 328 | 24/11/23 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | [Java](./November%202023/Maximum_Number_of_Coins_You_Can_Get.java) | Nov |
+329 | 25/11/23 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Medium | [Java](./November%202023/Sum_of_Absolute_Differences_in_a_Sorted_Array.java) | Nov |
