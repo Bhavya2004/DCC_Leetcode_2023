@@ -335,3 +335,4 @@
 328 | 24/11/23 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | Medium | [Java](./November%202023/Maximum_Number_of_Coins_You_Can_Get.java) | Nov |
 329 | 25/11/23 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Medium | [Java](./November%202023/Sum_of_Absolute_Differences_in_a_Sorted_Array.java) | Nov |
 330 | 26/11/23 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium | [Java](./November%202023/Largest_Submatrix_With_Rearrangements.java) | Nov |
+331 | 27/11/23 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) | Medium | [Java](./November%202023/Knight_Dialer.java) | Nov |
