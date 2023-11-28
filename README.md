@@ -336,3 +336,4 @@
 329 | 25/11/23 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | Medium | [Java](./November%202023/Sum_of_Absolute_Differences_in_a_Sorted_Array.java) | Nov |
 330 | 26/11/23 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium | [Java](./November%202023/Largest_Submatrix_With_Rearrangements.java) | Nov |
 331 | 27/11/23 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) | Medium | [Java](./November%202023/Knight_Dialer.java) | Nov |
+332 | 28/11/23 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Hard | [Java](./November%202023/Number_of_Ways_to_Divide_a_Long_Corridor.java) | Nov |
