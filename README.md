@@ -337,3 +337,4 @@
 330 | 26/11/23 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | Medium | [Java](./November%202023/Largest_Submatrix_With_Rearrangements.java) | Nov |
 331 | 27/11/23 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) | Medium | [Java](./November%202023/Knight_Dialer.java) | Nov |
 332 | 28/11/23 | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | Hard | [Java](./November%202023/Number_of_Ways_to_Divide_a_Long_Corridor.java) | Nov |
+333 | 29/11/23 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [Java](./November%202023/Number_of_1_Bits.java) | Nov |
