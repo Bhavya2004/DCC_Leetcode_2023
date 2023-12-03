@@ -341,3 +341,4 @@
 334 | 30/11/23 | [Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | Hard | [Java](./November%202023/Minimum_One_Bit_Operations_to_Make_Integers_Zero.java) | Nov |
 335 | 1/12/23 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [Java](./December%202023/Check_If_Two_String_Arrays_are_Equivalent.java) | Dec |
 336 | 2/12/23 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | Easy | [Java](./December%202023/Find_Words_That_Can_Be_Formed_by_Characters.java) | Dec |
+337 | 3/12/23 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | Easy | [Java](./December%202023/Minimum_Time_Visiting_All_Points.java) | Dec |
