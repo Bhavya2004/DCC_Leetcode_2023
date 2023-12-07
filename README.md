@@ -345,3 +345,4 @@
 338 | 4/12/23 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | Easy | [Java](./December%202023/Largest_3_Same_Digit_Number_in_String.java) | Dec |
 339 | 5/12/23 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Easy | [Java](./December%202023/Count_of_Matches_in_Tournament.java) | Dec |
 340 | 6/12/23 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | [Java](./December%202023/Calculate_Money_in_Leetcode_Bank.java) | Dec |
+341 | 7/12/23 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | [Java](./December%202023/Largest_Odd_Number_in_String.java) | Dec |
