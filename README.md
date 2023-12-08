@@ -346,3 +346,4 @@
 339 | 5/12/23 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | Easy | [Java](./December%202023/Count_of_Matches_in_Tournament.java) | Dec |
 340 | 6/12/23 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | Easy | [Java](./December%202023/Calculate_Money_in_Leetcode_Bank.java) | Dec |
 341 | 7/12/23 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | [Java](./December%202023/Largest_Odd_Number_in_String.java) | Dec |
+342 | 8/12/23 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Easy | [Java](./December%202023/Construct_String_from_Binary_Tree.java) | Dec |
