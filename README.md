@@ -348,3 +348,4 @@
 341 | 7/12/23 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | Easy | [Java](./December%202023/Largest_Odd_Number_in_String.java) | Dec |
 342 | 8/12/23 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Easy | [Java](./December%202023/Construct_String_from_Binary_Tree.java) | Dec |
 343 | 9/12/23 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Java](./December%202023/Binary_Tree_Inorder_Traversal.java) | Dec |
+344 | 10/12/23 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Java](./December%202023/Transpose_Matrix.java) | Dec |
