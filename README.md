@@ -349,3 +349,4 @@
 342 | 8/12/23 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | Easy | [Java](./December%202023/Construct_String_from_Binary_Tree.java) | Dec |
 343 | 9/12/23 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Java](./December%202023/Binary_Tree_Inorder_Traversal.java) | Dec |
 344 | 10/12/23 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Java](./December%202023/Transpose_Matrix.java) | Dec |
+345 | 11/12/23 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Easy | [Java](./December%202023/Element_Appearing_More_Than_25_In_Sorted_Array.java) | Dec |
