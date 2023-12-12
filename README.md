@@ -350,3 +350,4 @@
 343 | 9/12/23 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [Java](./December%202023/Binary_Tree_Inorder_Traversal.java) | Dec |
 344 | 10/12/23 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Easy | [Java](./December%202023/Transpose_Matrix.java) | Dec |
 345 | 11/12/23 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Easy | [Java](./December%202023/Element_Appearing_More_Than_25_In_Sorted_Array.java) | Dec |
+346 | 12/12/23 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | [Java](./December%202023/Maximum_Product_of_Two_Elements_in_an_Array.java) | Dec |
