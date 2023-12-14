@@ -352,3 +352,4 @@
 345 | 11/12/23 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | Easy | [Java](./December%202023/Element_Appearing_More_Than_25_In_Sorted_Array.java) | Dec |
 346 | 12/12/23 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Easy | [Java](./December%202023/Maximum_Product_of_Two_Elements_in_an_Array.java) | Dec |
 347 | 13/12/23 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | Easy | [Java](./December%202023/Special_Positions_in_a_Binary_Matrix.java) | Dec |
+348 | 14/12/23 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium | [Java](./December%202023/Difference_Between_Ones_and_Zeros_in_Row_and_Column.java) | Dec |
