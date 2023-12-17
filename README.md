@@ -355,3 +355,4 @@
 348 | 14/12/23 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | Medium | [Java](./December%202023/Difference_Between_Ones_and_Zeros_in_Row_and_Column.java) | Dec |
 349 | 15/12/23 | [Destination City](https://leetcode.com/problems/destination-city/) | Easy | [Java](./December%202023/Destination_City.java) | Dec |
 350 | 16/12/23 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Java](./December%202023/Valid_Anagram.java) | Dec |
+351 | 17/12/23 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | [Java](./December%202023/Design_a_Food_Rating_System.java) | Dec |
