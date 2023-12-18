@@ -356,3 +356,4 @@
 349 | 15/12/23 | [Destination City](https://leetcode.com/problems/destination-city/) | Easy | [Java](./December%202023/Destination_City.java) | Dec |
 350 | 16/12/23 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Java](./December%202023/Valid_Anagram.java) | Dec |
 351 | 17/12/23 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | [Java](./December%202023/Design_a_Food_Rating_System.java) | Dec |
+352 | 18/12/23 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | [Java](./December%202023/Maximum_Product_Difference_Between_Two_Pairs.java) | Dec |
