@@ -358,3 +358,4 @@
 351 | 17/12/23 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | [Java](./December%202023/Design_a_Food_Rating_System.java) | Dec |
 352 | 18/12/23 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | Easy | [Java](./December%202023/Maximum_Product_Difference_Between_Two_Pairs.java) | Dec |
 353 | 19/12/23 | [Image Smoother](https://leetcode.com/problems/image-smoother/description/) | Easy | [Java](./December%202023/Image_Smoother.java) | Dec |
+354 | 20/12/23 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy | [Java](./December%202023/Buy_Two_Chocolates.java) | Dec |
