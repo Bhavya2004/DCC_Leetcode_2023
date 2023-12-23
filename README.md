@@ -361,3 +361,4 @@
 354 | 20/12/23 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | Easy | [Java](./December%202023/Buy_Two_Chocolates.java) | Dec |
 355 | 21/12/23 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Medium | [Java](./December%202023/Widest_Vertical_Area_Between_Two_Points_Containing_No_Points.java) | Dec |
 356 | 22/12/23 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | Easy | [Java](./December%202023/Maximum_Score_After_Splitting_a_String.java) | Dec | 
+357 | 23/12/23 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | Easy | [Java](./December%202023/Path_Crossing.java) | Dec |
