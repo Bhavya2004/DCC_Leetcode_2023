@@ -365,3 +365,4 @@
 358 | 24/12/23 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | Easy | [Java](./December%202023/Minimum_Changes_To_Make_Alternating_Binary_String.java) | Dec | 
 359 | 25/12/23 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Easy | [Java](./December%202023/Decode_Ways.java) | Dec |
 360 | 26/12/23 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | Medium | [Java](./December%202023/Number_of_Dice_Rolls_With_Target_Sum.java) | Dec |
+361 | 27/12/23 [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Medium | [Java](./December%202023/Minimum_Time_to_Make_Rope_Colorful.java) | Dec |
