@@ -368,3 +368,4 @@
 361 | 27/12/23 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | Medium | [Java](./December%202023/Minimum_Time_to_Make_Rope_Colorful.java) | Dec |
 362 | 28/12/23 | [String Compression II](https://leetcode.com/problems/string-compression-ii/description/) | Hard | [Java](./December%202023/String_Compression_II.java) | Dec |
 363 | 29/12/23 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | Hard | [Java](./December%202023/Minimum_Difficulty_of_a_Job_Schedule.java) | Dec |
+364 | 30/12/23 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | Easy | [Java](./December%202023/Redistribute_Characters_to_Make_All_Strings_Equal.java) | Dec |
