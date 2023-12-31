@@ -265,19 +265,19 @@
 258 | 15/9/23 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Medium | [Java](./September%202023/Min_Cost_to_Connect_All_Points.java) | Sep |
 259 | 16/9/23 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Medium | [Java](./September%202023/Path_With_Minimum_Effort.java) | Sep |
 260 | 17/9/23 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Hard | [Java](./September%202023/Shortest_Path_Visiting_All_Nodes.java) | Sep |
-261 | 18/7/23 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | [Java](./September%202023/The_K_Weakest_Rows_in_a_Matrix.java) | Sep |
-262 | 19/7/23 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | [Java](./September%202023/Find_the_Duplicate_Number.java) | Sep |
-263 | 20/7/23 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [Java](./September%202023/Minimum_Operations_to_Reduce_X_to_Zero.java) | Sep |
-264 | 21/7/23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Java](./September%202023/Median_of_Two_Sorted_Arrays.java) | Sep |
-265 | 22/7/23 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Java](./September%202023/Is_Subsequence.java) | Sep |
-266 | 23/7/23 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [Java](./September%202023/Longest_String_Chain.java) | Sep |
-267 | 24/7/23 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | [Java](./September%202023/Champagne_Tower.java) | Sep |
-268 | 25/7/23 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Java](./September%202023/Find_the_Difference.java) | Sep |
-269 | 26/7/23 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/d) | Medium | [Java](./September%202023/Remove_Duplicate_Letters.java) | Sep |
-270 | 27/7/23 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | Medium | [Java](./September%202023/Decoded_String_at_Index.java) | Sep |
-271 | 28/7/23 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Java](./September%202023/Sort_Array_By_Parity.java) | Sep |
-272 | 29/7/23 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [Java](./September%202023/Monotonic_Array.java) | Sep |
-273 | 30/7/23 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | [Java](./September%202023/132_Pattern.java) | Sep |
+261 | 18/9/23 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | Easy | [Java](./September%202023/The_K_Weakest_Rows_in_a_Matrix.java) | Sep |
+262 | 19/9/23 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | Medium | [Java](./September%202023/Find_the_Duplicate_Number.java) | Sep |
+263 | 20/9/23 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [Java](./September%202023/Minimum_Operations_to_Reduce_X_to_Zero.java) | Sep |
+264 | 21/9/23 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Java](./September%202023/Median_of_Two_Sorted_Arrays.java) | Sep |
+265 | 22/9/23 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | [Java](./September%202023/Is_Subsequence.java) | Sep |
+266 | 23/9/23 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [Java](./September%202023/Longest_String_Chain.java) | Sep |
+267 | 24/9/23 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | Medium | [Java](./September%202023/Champagne_Tower.java) | Sep |
+268 | 25/9/23 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | Easy | [Java](./September%202023/Find_the_Difference.java) | Sep |
+269 | 26/9/23 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/d) | Medium | [Java](./September%202023/Remove_Duplicate_Letters.java) | Sep |
+270 | 27/9/23 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) | Medium | [Java](./September%202023/Decoded_String_at_Index.java) | Sep |
+271 | 28/9/23 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Java](./September%202023/Sort_Array_By_Parity.java) | Sep |
+272 | 29/9/23 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Easy | [Java](./September%202023/Monotonic_Array.java) | Sep |
+273 | 30/9/23 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | Medium | [Java](./September%202023/132_Pattern.java) | Sep |
 274 | 1/10/23 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [Java](./October%202023/Reverse_Words_in_a_String_III.java) | Oct | 
 275 | 2/10/23 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | Medium | [Java](./October%202023/Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color.java) | Oct |
 276 | 3/10/23 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [Java](./October%202023/Number_of_Good_Pairs.java) | Oct |
